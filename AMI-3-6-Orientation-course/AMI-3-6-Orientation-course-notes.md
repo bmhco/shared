@@ -139,4 +139,125 @@ You would include this progression of the cards:
 + Move to `neighbourhood` environment, things like train station, market, florist, park (specific to each child of course)
 + Move to `cultural` area, including geography, botany, arts, science and music
 
+## Songs and Poetry
++ Ways through which we can continue to expand and enrich the child's vocabulary
++ Very important part of our interaction with children and one of the ways we communicate
++ Can be a very nice bonding moment between children and also children and adults in the Children's House
++ Songs that are already familiar to the child can be a very good bridge between their home life and the Children's House
++ Should be interwoven into the daily life at the children's house
+  + Should have songs and poems for every ocassion and just for fun!
++ May also help children who are shy to come out of their shell a little
++ Have to be careful we choose something appropriate for the children and their culture
++ _Avoid anything that is violent_ or disrespectful
+  + `3 Blind Mice` is a good example of this, terrible lyrics!
+  + `Atirei o Pau ao Gato` in Portuguese!
+  + Animals eating other animals for example, like the monkeys SNAP being eaten by an alligator
 
+**5 categories of Poetry to discuss today:**
+1. Poems and Rhymes
+2. Finger Plays
+3. Songs
+4. Action Songs 
+5. Singing Games
+
+### Poems & Rhymes
++ A _poem_ is often a little more complex or subtle in meaning than a _rhyme_
+  + Poems may also have a slightly more complicated structure
++ Nursery rhymes are an example of rhymes
+
+#### **Example of a poem**
+
+The Ladybird,  
+by Spike Milligan
+
+How brave a ladybird must be  
+Each drop of rain as big as she  
+Imagine what you would do  
+If raindrops fell as big as you  
+
+### Finger Plays
++ Involves fingers
++ Recite verbally or can be sung
+  + Incy Wincy Spider is an example of a finger play that can be sung
++ Simplest one might be 'two little dickie birds sitting on a wall'
+
+#### **Example of a finger play**
+[interlace fingers and bunch up into a ball]
+This is the beehive  
+Where are the bees?  
+Hiding away where nobody sees.  
+Creeping they come out of the hive,  
+1, 2, 3, 4 and 5! (lifting one finger at a time)
+
+**And a better lyric version of the finger song**:  
+Toby thumb, Toby thumb, where are you? Here I am, here I am, how do you do?
+Peter Pointer  
+Timothy Tall  
+Ruby Ring  
+Baby Small   
+All the fingers
+
+### Songs
++ Just playing and singing songs
++ There are also quite a few songs that are international and it's lovely for the children to see that the same songs exist in multiple language
+  + `Twinkle twinkle` and `Frere Jacques` are good examples of this
++ Some children will tell you "It's not like that!" and this can also be to do with their sensitive period for order
++ When children know songs _really_ well, it's great to try ***rounds*** with them
+  + Good examples are `Row row row your boat` and `Frere Jacques`
+
+### Action Songs
++ We move a bit more than just the fingers, but _staying in one place_, not moving around
++ Best example is `Head, Shoulders, Knees and Toes` 
+  + `If you're happy and you know it`
+  + `The Wheels on the Bus`
+
+### Singing Games
++ Requires more movement from the whole group
++ Require cooperation within the group
+
+## Stories
++ Similar to songs and rhymes, one of the ways in which we communicate
++ Stories can also be passed down from one generation to another and this is also how culture is transmitted
++ Some cultures have an extremely rich _spoken_ story tradition and some have a rich _written_ story tradition
+  + We need to offer children both
++ Good stories:
+  + Should stimulate the child's _imagination_ and _love of their mother tongue_
+  + Transmit emotions, ideas and feelings
+  + Expands child's interest in language because they can see that ideas can be expressed in different ways
+  + Enrich and expand the child's vocabulary
+
+### Books
+
++ Can either be fact or fiction, children do need _both_
++ Need to offer stories that help the children understand reality
++ Offer stories that are meaningful to them and something they can _relate_ to
++ When they are 6 and onwards, they have adapted to reality and can distinguish what is real and what is not, we can widen the scope of what we offer to children
++ Stay away from animals in stories dressed in clothes for example
+  + We can offer children stories about the animals where the story/_experience_ is human (_so the children can relate to it_) but the animals behave as they would in real life - i.e. owls live in trees, not in a city dressed in clothes
+  + Some Montessori Guides against `The Very Hungry Caterpillar` because children don't eat strawberries or cake etc, but Elina is not, you can always have a conversation with the child about what caterpillars eat in real life
++ Soothing and helping the child to feel secure, so also don't offer scary or violent books, or ones with which portray some people as 'bad' which are inherently not:
+  + `Snow White`and `Cinderella` portraying step-mothers as bad
+  + `3 Little Pigs` portraying the _wolf_ as bad when he's actually just acting like a wolf
++ Don't be swayed by awards, like `Angry Arthur` won lots of awards but is terrible, no adults try to help and support the child, unrealistic consequences for his anger, creates fearfulness around the consequences of their actions, there is zero resolution for their anger, etc. It's awful!
++ When reading a book, always _introduce the title and the author_, a child might also want to know more from that author for example
++ A great book example: Ruth Brown's `The Ten Seeds`
+
+#### **3-4 year olds**
++ Great to offer books that consolidate what they know
++ Begin to like stories about relationships, friendships, transport
++ Can begin to get a little more complex
+
+#### **4-5 year olds**
++ More books about other children, from different parts of the world and belief systems
++ Children's humour
+
+#### **5-6 year olds**
++ Can no longer be picture books and be more like chapter books
++ Often have one main character
+
+### In the Children's House
++ Typically always have a children's reading corner
++ Comfortable chairs or sofas or cushions on the floor
++ Display the books facing forward for this age group
+
+Note that not everyone has access to books and that in some countries, books aren't even part of the culture. In rural areas in some places however, there are library donkeys (that bring books to children regularly, like a mobile library), camels or library boats for example, super cool.
