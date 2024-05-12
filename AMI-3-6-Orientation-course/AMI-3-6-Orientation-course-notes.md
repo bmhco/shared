@@ -1,3 +1,209 @@
+# AMI 3-6 Orientation Course
+
+Interesting organisations using Montessori:
++ EsF initiatives https://montessori-esf.org
++ Born Inside https://www.mariamontessori.org/outreach/born-inside/
++ Corner of Hope in Kenya:
+![Corner of Hope in Kenya](https://github.com/nelsonic/invest/assets/4185328/5d12da44-273c-4be8-bd0d-53e61de30f85)
+
+
+
+## On Maria Montessori
++ One of the first female doctors in Italy
++ Very pro-women’s rights
++ Had a child out of wedlock in 1898
+  + She sent him to live with a family in the countryside as she didn’t want to marry and give up her career
+  + Originally visited him as an aunt and then he found out she was his mother
+  + Began living with her in 1912/13
+  + Became her biggest supporter
++ Casa dei Bambini opened 6th January 1907 in San Lorenzo slum in Rome
++ In 1916 she moves to Barcelona  
++ Passed away in 1952 as she was planning to take the pedagogy to Africa
+
+
+## Human Tendencies
++ Unlike the Absorbent Mind and the Sensitive Periods, they last throughout our lives and support our development throughout our lives
++ Tendency implies a propensity to behave or think in a particular way
++ They are common to all of us and support our development but also the development and progression of the community (universal)
++ It is a bent, inclination, proneness, disposition, leaning
++ A tendency implies a predisposition to think, act, behave, or proceed in a particular way
++ ‘Aptness to move in a particular direction ro way… impelling force that will operate if not a counteracted’ (Shorter Oxford Dictionary)
+
+### The Purpose of the Human Tendencies
++ Tendencies are essential for human beings to survive and develop fully
++ These inborn directives, which lead the human being to act in a certain way, are common to all humanity and work for common and individual progress
++ They help the human being to adapt to their environment. The conditions of any environment change with time but certain tendencies within the human being will never change, hence the human being is provided with the capability of adaptation
+
+
+### Features of the Human Tendencies
++ Universal
++ Deeply inter-related and support the work of one another
++ They last throughout our lives but how they are revealed will depend on the plane of development one is at and must be responded to and fulfilled accordingly
++ They must have an appropriate environment
+
+### List of Human Tendencies
+Not carved in stone or absolute but here are the main ones:
++ Movement
++ Orientation
++ Exploration
++ Gregariousness
++ Communication
++ Order
++ Curiosity
++ Calculation
++ Repetition
++ Perfection
++ Creative Imagination
++ Imitation
++ Self control
++ Exactness/precision
++ Work/activity
++ Independence
++ Concentration
++ Abstraction
+
+## Planes of Development
+
+
+1. Infancy (0-6 years)
+2. Childhood (6-12 years)
+3. Adolescence (12-18 years)
+4. Maturity (18-24 years)
+
+During each plane, the child has very distinct characteristics and needs.
+
+![The Four Planes of Development](https://github.com/nelsonic/shoshin/assets/4185328/8a8b9829-5e63-4c2a-9339-948157c4853b)
+  
+
++ The red signifies enormous transformation and change
++ Dotted line after 24 signifies that we are constantly learning and developing, despite the major construction of the human being having been complete by this time
+
+Needs across the 4 planes:
++ Physical
++ Cognitive (intellectual)
++ Emotional
++ Social
+
+Think of the metamorphosis of the butterfly: each phase is independent but they are incredibly interconnected. It is very important to appreciate the _unity_ of the 4 planes, just as the phases of the butterfly’s development.
+
+
+
+## The First Plane
+The task of the child under 6 is ***adaptation and self-construction***.  
+  
+
+“Help me to do it by myself.”
+
+
+### The Second Plane
++ Has a _reasoning_ mind, not an absorbent mind
++ Asks why and how?
++ Now start questioning everything
++ Are very interested in questions of a moral nature - right/wrong, acceptable/not acceptable
++ The peer group is very important to them
++ We need to be a sounding board and support the child
++ MM called this the “Age of Rudeness” because children can be very blunt but also the “Age of Serenity” because there are no drastic changes
+
+“We might say that the younger children take things in sensorially. The child of seven enters the abstract field, he wishes to know the reasons.” - Maria Montessori, Citizen of the World, p.32  
+  
+“Help me to _think_ by myself.”
+
+## The Third Plane
++ Enormous transformation and change - at the beginning of the 3rd plane we see a child and at the end we see a young adult
++ Preparation for adulthood
++ Find their calling and mission in this plane
++ MM wrote the blueprint for the adolescent plane but these were put into practice after she passed away
++ VERY important that the adolescent feels valued, they need to feel they are making a contribution
++ They are preparing for adult life, gaining independence in many ways (including financial independence)
+
+## The Fourth Plane
++ Putting their mission into practice
++ Individual is largely formed at this point
++ Harvesting of what has gone before
+
+
+# The Absorbent Mind
+
+```
+“… children possess a mental structure quite unlike that of adults, and a totally different psychic field, endowed with far greater power and sensibility; faculties that allow them to be unconscious creators. I have named this mental structure the absorbent mind. 
+However, the mind of the child does not absorb like a sponge letting water through without retaining it; the mind of the child absorbs enduringly, thereby creating the character of the adult to become.’  
+- Maria Montessori, Citizen of the World, p 95, Montessori-Pierson
+```
+
++ Absorption is not something that the child chooses to do consciously
++ Child’s mind is not conscious, without judgement and non selective, it’s not conscious
++ Sponge analogy is really not great because when you pick up a sponge filled with water, it leaks but a child’s mind does not
++ Camera and painter analogies are more apt
++ “Unconscious creator” at 0-3
+  + Child is making all these acquisitions but is not conscious of the absorption taking place
++ During 3-6
+  + Absorption is enhanced through child’s own activity
++ Easy, effortless and permanent acquisition
++ Value acquisition also happens in this time
++ A child absorbs everything, even those that are not concrete: safety, security, love
+
+Other points to note:
++ Greetings are where cultural traits and movement most obviously overlap
++ Food is also a cultural trait
+
+
+# Sensitive Periods
++ Supposedly Hugo de Vries gave the term but now it is actually thought that it might have been from Jacques Loeb who studied the Porthesia Butterfly (de Vries actually studied flora and not the butterfly)
++ She got the term from the scientists who studied that the Porthesia butterfly caterpillar is drawn to the tips of the tender leaves by the light
++ Draw the child’s attention to those aspects of the environment that help the child to create human characteristics _or_ functions
+  + Characteristics are what makes us human
+  + Function implies the use of the characteristics
++ Sensitive periods are extremely selective (unlike the absorbent mind which takes in _everything_ easily) because they really draw the child’s attention to specific things
++ They have a gradual, often subtle beginning, followed by a point of intensity and then gradually fade
++ If we cater for these innate sensitivities we notice the child often expresses joy and contentment
++ ***These SPs are NOT for learning***, their purpose is much deeper, it’s to help acquire characteristics
+
+![Sensitive Periods](https://github.com/nelsonic/shoshin/assets/4185328/38e4bd61-b1ef-4902-abb0-6225a1e6c134)
+
+  
+### Sensitive Period for Language
++ One of the longest SPs
++ Long before the child is able to express themselves, they turn to the human voice and react to it (they express joy)
++ Rich oral language scheme but also introduces children to writing and reading in the Children’s House
+  + Learned with more joy and sense of discovery in a way that responds to the child’s developmental needs
++ Gives focus to the human voice, complementing the Absorbent Mind perfectly
+
+### Order 1-3 years
++ Fundamentally we are talking about order of the mind
++ Order helps children feel safe and secure and builds trust in the environment
++ It’s not superficial, it goes very very deep
++ MM said it’s one of the most important and mysterious
++ “love for order”
+
+## Sensitive Period for Small Objects, 1-2 years
++ Can think of this as a sensitive period for detail
++ Their interest is captured by the tiniest thing whereas you and I might be indifferent to it
+  + Like they notice the flea on the cat much more than the cat
++ Give them _time_ to explore the detail
++ Matched excitement when they find the tiny details 
+
+
+## Sensitive Period for Refinement of Sensory Perception, 0 to almost 5 years old
++ Senses are a bridge between ourselves and our external environment
++ Better able to differentiate and distinguish things
++ The sharper our senses are, the closer our connection and the more accurate the feedback we receive from our surroundings is
+
+
+## Sensitive Period for Coordinated Movement, 1.5-4 years old
++ The child is not born with coordinated movement, it is developed with enormous effort and activity
++ Coordination is between the mind and the body
++ The child often has an _internal_ purpose and this is when we see them repeat the same thing over and over again
+  + When we allow the repetition to be satisfied it often leads to concentration
+  + e.g. When a child puts on their shoe but then takes it off again and puts it on and takes it off and so on
+
+## Sensitive Period for Social Behaviour, 2.5 - 6 years old
++ Family is the first social group usually
++ Child really sees a wider social exposure/group and eager to be with other children and adults
++ One response in the Children’s House to this is the mixed age group, allowing the children to live a truly social life with other children
++ Through grace and courtesy activities as well
+
+They are innate and the environment can support or hinder.
+
 # Development of Movement
 
 On Sensory Perception:  
