@@ -565,3 +565,66 @@ All the fingers
 > In rural areas in some places however, there are library donkeys
 > (that bring books to children regularly, like a mobile library),
 > camels or library boats for example, super cool.
+
+
+## 3 Period lesson
+
+Overarching points:
+1. Items we choose need to be **contrasting in *name* and *appearance***, e.g. perhaps put in apple, orange and banana but not a lemon and an orange because they can be very similar in appearance
+2. There is usually a relationship between these things
+3. This is _not a speech lesson_, the child is to pronounce and say the word as they do normally. So if you say `banana` and the child says `nana`, don’t correct them **(letter substitution often happens until age 5; `lellow` instead of `yellow`
+4. Very important the 3 period lesson is a positive experience
+5. The child should know the object in the child’s First Language first _always_, before going into another language (in the case of a bilingual situation) (child is in adaptation stage, they **must** know it in their Mother/Primary/First tongue first)
+6. This is to teach the child new vocabulary
+7. 3 at a time, _all_ new vocabulary 
+
+### 1. Naming Stage
++ Can repeat the first stage a couple of times
++ Good to isolate the object and place it infront of the child
++ Encourage them to say the name, repeat after you
+
+
+### 2. Connecting object with the name 
++ When you invite the child to move one of the objects, _always_ invite the child to put it _back_ into the group before moving to the next one
+  + This way the child always has a full group of objects to choose from
++ Do not look at the object you want or touch or point to it, don’t give the child any clues unless you need to!
++ Don’t make silly requests like ‘now put the apple on your head’ because it _distracts the child_
+  + The **Focus needs to be on the concept we are trying to impart**, the names of the objects
++ `Pick up`, `show me`, `give me`, `where is`, `please put it here`, `point to`
+  + If you only use `where is`, it’s going to be super boring for the child
++ Don’t introduce random new vocabulary - remember you’re not teaching ‘right’ and ‘left’ or positioning vocabulary, you’re **focusing** on the objects
++ Say `thank you` (and variations of) when the 
+
+
+### 3. Child gives back the name
++ Doesn’t need to be a long stage
++ Important that it doesn’t feel like an inquisition
++ `Now, let’s have a look what we have here, what am I holding? What is this one? [point] And this one?`
+
+
+## News Period
+
+**Aim**: Help the child to express themselves and articulate their thoughts clearly.
+Works other things too but this is the main aim
+
++ Typically offered to a small group of children, ideally 4-6 children
++ No props, pictures, toys or anything at all (_ever_, there are other activities like show & tell where they do use these props), this is _just_ about sharing news verbally
++ Do these every day, sometimes more than once a day
+  + This way children know they will have opportunities to share and you can keep the group small
++ From 5 - 10 minutes
++ Stand up infront of the children
++ Share your news and then invite the children to share their news
++ Encourage them to come and stand next to you infront of the group to share their news (they can also stand where they are but nice to have them practice standing infront of the group)
++ Sometimes child will come and stand infront of the group but nothing comes out
+  + ONLY in this situation, you might ask a question or two to get them started
++ Sometimes the child will go on and on and not know when to stop
+  + Try to encourage them to stick to one piece of news, “Thank you very much, you know what, we’ll have another opportunity to share news on another day and you can share the rest of your news then!”
++ Always acknowledge: `“Thank you very much for sharing your news”
+  + You can always make a short comment and if they share sad news you can show compassion “I’m so sorry to hear your dog passed away, that can be very hard, thank you for sharing that with us”
++ If a child is a little quiet, even if another child says they can’t hear, you **don’t repeat what the child has said**, let the child repeat themselves if they want
+  + Just stay quiet throughout, don’t ask them to speak louder
+  + It’s a process, you don’t say anything
+  + Even if the child whispers and it’s not audible, you say ‘thank you for sharing your news’
+  + It’s important that the child is given the feeling that you are listening, they are being heard and thanked for their contribution
+
+
