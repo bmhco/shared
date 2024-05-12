@@ -601,6 +601,13 @@ Overarching points:
 + Important that it doesn’t feel like an inquisition
 + `Now, let’s have a look what we have here, what am I holding? What is this one? [point] And this one?`
 
+### When a child makes a mistake
++ Super important that it's a positive environment
++ When you realise a child doesn't know one of the objects in the second stage, you don't insist on that object, just keep going with the other two the child knows
+  + At the end, ***you*** name the object the child doesn't know _first_ and then let the child finish on a positive by knowing the two she does know next
++ You DON'T go back to the second stage, you keep moving onward
++ ***You don't correct***
+
 
 ## News Period
 
@@ -628,3 +635,101 @@ Works other things too but this is the main aim
   + It’s important that the child is given the feeling that you are listening, they are being heard and thanked for their contribution
 
 
+# Independence
++ A Human Tendency
++ **Our responsibility is for the *whole* person** so we really want to support independence in all areas: physical, cognitive (thought), emotional and social\
+  + Important to consider that the child may know how to put a coat on physically, but today they may need _you_ to do it, _emotionally_
++ MM talks about independence in terms of:
+  + The very act of birth is the first act of independence
+  + Acquiring language, first word
+  + Acquiring movement
++ It’s important to remember it’s not the child’s job to fulfil a need in adults - not their job to make you feel needed, let them do it by themselves!
+  + Often doing things for others is a form of showing care and love
++ Time and patience are very important for us to be able to develop the child’s independence, they need to be given the opportunity to do things
++ Independence is not a static condition
++ Child is not going to construct language or movement without other humans but the more independent one becomes, the more one is able to make a contribution for other in the environment so it’s a virtuous cycle
+
+> No one can be free if he is not independent, therefore the active manifestations of persona l liberty must be guided from earliest infancy.  
+~ Maria Montessori, Discovery of the Child, p.57, Clio
+
++ Independence goes together with **responsibility**
+  + If you think your child isn't responsible enough to know how to open and close the car seat buckle alone because they might unbuckle whilst the car is moving, then don't allow them to unbuckle just yet
+
+# Observation
++ One of the key responsibilities of any adult
++ Whole Montessori approach is founded on observation
++ **Very different to record keeping**
+
+### Our Tasks
+1. To comprehend the needs of the child and how best to respond to them
+2. To remove the obstacles
+3. To integrate theory and practice
+
+### Qualities of the Observer
++ Discreet - we don't want to affect the children's actions
++ Objective - strive to only write down what happens without adding our own feelings or opinions about it
++ Non-judgemental - again, write what happens without judgement
++ Patient - observe patiently and appreciate that development is a process
+
+### What to observe?
++ Activity the child is _interested_ in
+  + ***True*** interest, not fleeting interest of novelty
+    + Repetition over a number of days
+    + Deep levels of concentration
++ Motivation
+  + Can come from lots of places, including true interest and also imitating what another child has done
++ Focus and concentration
+  + Almost like they are oblivious to what is happening around them
++ What happens in between activities
++ Repetition, exploration and discoveries
++ Problem solving, effor and level of challenge
+  + What happens? Do they persevere and try to find a solution or go ask for help?
++ Co-ordination & motor skills (gross and fine)
++ **Language**
+  + Vocabulary
+  + Expression of ideas
+  + Exchange with others (some might be more inclined to interact with adults for example)
+  + Self confidence in speaking
++ **Social Development**
+  + Child's interaction with others
+  + How the child makes contact with others
+  + Response in a group situation
+  + How do they express their feelings
+  + Communication with peers and adults
+
+### When to observe?
+Hopefully we observe every single day.
+
+### Challenges
++ No time! But If you really want to support a child's development and self construction you don't have the time _not_ to observe
++ There is no immediate gratification
++ How to record observations
+
+### Additional point on the Observation Guidelines
++ Ideally consecutive days
++ A5 notepad is ideal as it's less conspicuous that A4
++ Write an alias instead of the name
++ Section C: 
+  + How activity finishes: are they completing independently, an activity isn't finished until it's back on the shelf
+  + Does the child participate or are they observing
+  + Repetition doesn't have to be back to back. If they go to the book corner twice in the same work cycle, even if there are other activities in the middle, this is repetition. A scrubbing activity in the morning and washing their hands later in the day is also repetition of the same type of activity
+  + 'The child smiled because they built the pink tower' is an _assumption_. But 'the child built the pink tower. They smiled.' is an _observation_.
++ Section D: Gaining any particular insight could also be about yourself and not just the child
++ On the report
+  + Don't have to necessarily write down _everything_ in the report that you have in your notepad
+  + If child is out of sight, from 'x time to x time the child was in the bathroom.
++ If you accidentally catch the child's eye, look very busy writing on your notepad
++ If a child comes to ask you something, just tell them you are there doing your work but avoid engaging with them too excitedly
++ Be mindful of your body language and try to remain neutral
++ Dress formally but comfortably to sit down for long periods of time, remember to take layers as you can take them off
++ The school may ask for your report but if you don't feel comfortable sharing, you can feel free to say no
++ Ask the school beforehand if they have any particular requirements (whether you need to bring paritcular shoes or a particular dress code)
++ Should not consume food or sweets or chew gum in the children's presence (unless the children offer you something)
++ Mobile phones off and not on your person
++ Strong odours like perfumes etc don't have a place in the Children's House
++ Everything you see or hear (both children and adults) needs to be confidential so that there is integrity in the process
+
+
+  Questions:
+  Same child
+  Deadline
