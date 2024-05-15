@@ -407,6 +407,8 @@ You would include this progression of the cards:
   (specific to each child of course)
 + Move to `cultural` area, including geography, botany, arts, science and music
 
+Note that colour of the border of the cards should match the colour of the box, to keep everything together.
+
 ## Songs and Poetry
 
 + Ways through which we can continue to expand and enrich the child's vocabulary
@@ -729,7 +731,54 @@ Hopefully we observe every single day.
 + Strong odours like perfumes etc don't have a place in the Children's House
 + Everything you see or hear (both children and adults) needs to be confidential so that there is integrity in the process
 
+### Guidelines to make Classified Cards
++ Make 2 sets, a reading (has control card - both image and name - and label and image separately) and a non-reading (pictures only) set
 
-  Questions:
-  Same child
-  Deadline
+# Role of the Adult
+
+"Education shoud no longer be mostly imparting of knowledge, but moust take a new path, seeign ghte release of human potentialities." - New Education
+
+Parent and Guide and Assistant work as a team to promote development of the child.
+
+## Role of the Adult - Parent/Teacher/Assistant, etc
+1. To assist the child in their development; supporting movement, communication and independence for example
+  + In order to do this we need to know and _understand_ the child's **developmental needs**
+  + Study our own attitudes and the way we respond to children
+2. To help create and maintain a suitable environment for the children
+  + Requires planning
+  + Must be maintained in perfect order
+3. To observe children so as to respond more appropriately
+  + How best to respond to each unique child
+  + Help children to amange their behaviour in a contructive way
+  + Help observe the children so that every adult interacting with the child has a better understanding of the child
+4. In a Children's House, the teacher and the assistant are a team that works for the benefit of the child
+  + Communicate
+  + Shared responsibility; clear responsibilities
+  + Support the Children
+  + Assistant: Support the Teacher
+
+
+Specific role of trained Montessori teacher is to **connect the child to the environment** and present the Montessori materials.
+
+  
+## Preparation of the Adult
+
+### Domains of Preparation of the Adult:
++ ***Intellectual***
+  + Need to know about the Absorbent Mind, Sensitive Periods and Human Tendencies to know about the child's development
+  + Should know about certain Montessori principles such as understanding the concept of _freedom and responsibility_, appreciate the notion of a mixed age group to support a child's _social_ development, etc
+  + Good to have general knowledge about the world in which we live - we must prepare ourselves in order to respond to the children's interests
+  + Preparation of the _Montessori teacher_
+    + Knowing the aims of the Montessori materials - to know how and when to present these materials is only possible with many hours of personal practice with the materials
+      + Without this practice we cannot understand the interconnectedness of the materials
++ ***Physical*** 
+  + We must always be a role model in how we conduct ourselves
+    + Physical appearance and demeanor
+    + Communication and interaction with the child and colleagues
+  + Read chapter 13 of Education for a New World on 'What a Montessori Teacher should be'
+  + We are part of the environment and the child is going to absorb and imitate us
++ ***Spiritual***
+  + 'Looking into ourselves' - inner preparation
+  + Trying to get rid of anything that might prevent us from seeing the child objectively and supporting the child accordingly; our attituted, disposition
+  + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling proficies
+  + Liking versus loving every child - do our best to support each unique child in our care, we must love every child
