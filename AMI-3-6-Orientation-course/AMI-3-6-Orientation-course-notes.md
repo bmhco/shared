@@ -782,3 +782,146 @@ Specific role of trained Montessori teacher is to **connect the child to the env
   + Trying to get rid of anything that might prevent us from seeing the child objectively and supporting the child accordingly; our attituted, disposition
   + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling proficies
   + Liking versus loving every child - do our best to support each unique child in our care, we must love every child
+
+# Preparation of the Environment
+
+***Prepared*** meaning there is intention and thought.
+
+We have given thought, planned and prepared so that the Environment is ready to be used or enjoyed. And this is everything, including _how it feels_ to be in the Environment, so preparing ourselves as people is also important
+
+## Home Environment
+
+### Preparing a Home Environment
++ Opportunities to help around the home
++ Show your child the 'how' of things
++ Accessible place for toys and activities
++ Encourage your child to put items back to their place when finished 
++ Offer some 'limited' choices
++ Allow time
++ Care of Self - getting dressed, brushing teeth, etc
++ Care of the Environment - watering plants, food preparation, cleaning
++ Consistency of routines: Bed time, mealtimes, etc
++ Clear expectations - Creates a sense of safety and security for the child
++ Listen to your child and _allow them to communicate back_
+
+
+
+### Punishments and Rewards don't work
++ Punishing someone is not going to yield improved behaviour but rather create shaming, dissapointment, sadness and is not conducive for development
++ On rewards: parents feel they need to tell the child every little thing they do is amazing, awesome, super etc, but this isn't helpful
+  + We are impinging on the child's autonomy in a big way
+  + Where do you go from here?
+  + Encouragement is different to empty praise
++ Allow the child to benefit from their mistakes
+
+
+## Montessori Classroom Environment
++ Everything is child sized
++ Everything has a place
++ Been prepared in response to what we know about the child and the child's developmental needs
++ Has: 
+  + Beauty
+  + Order
+  + Child-sized
+  + Real (no pretend anything in the environment)
+  + Harmony in physical and human elements
+  + Purposeful hands on activity
+  + Control of Error - the material is always auto-educational, rather than the adult telling them if it's correct or not
+
+
+
+### Activities in the Children's House
+
+***Practical life***
++ Care of self: polishing shoes, dressing frames, washing hands
++ Care of environment: sweeping, washing, polishing
+
+
+Critical opportunities to develop:
++ Co-ordinated movement
++ Independence
++ Concentration
++ Can do Attitude
+
+Group Activites:
++ Grace & Courtesy
++ Walking on the Line (develops equilibrium but also supports child's social interaction)
+  + The line needs to be free at _all times_, we **do NOT use it to sit on during group**
++ Silence Game
+  + Never imposed on children
+  + Look at it on an active point of view that the children _make_ a silence as opposed to someone telling them to be silent
+    + "So making a silence is a result of development"\
+
+***Sensorial***
+
+Helps child to:
++ Refine sensory perception
++ Organis and classify the impressions received from the environment
+  + In turn this helps them to construct a logical and clear mind
++ MM talks about sensorial materials as a way to develop intelligence
+
+
+***Language***
+
+Remember a lot of this isn't on the shelf, it's in **our interactions with the children**.
+
++ Two main functions:
+  + Tool for communciation 
+  + Tool for cognitiion / our thinking 
++ Casa OFFER ACTIVITIES FOR:
+  + 3 first point in screenshot slide
+  + Child is listened to and understood
+
+Key strands are oral expression, writing and reading
+
+Sound game is a _pre-requisite for the sandpaper letters_.
+
+Children typically read a little bit before they write, so the movable alphabet is super useful.
+
+***Maths***
+
+The materials help children to grasp fundamental mathematical concepts through concrete hands on experience, gradually leading to abstract understanding.
+
++ Stamp game is at around age 5 or so
+
+
+***Culture***
+
+Includes:
++ The World (geography)
++ Plants
++ Animals
++ Art
++ Music
++ Science
+
+Things we were shown in this section:
+  + Puzzle maps photo
+  + Class pets as children have opportunity to look after living things
+    + Can always also organise an animal visitor
+  + Care of plants
+  + Music - we should have a music corner which children can listen to and 
+  + Art (we'll talk more later) - creating and knowing
+  + Science: get to explore gravity, air, magnetism etc through simple science experiments
+  + Book corner
+  + Snack table
+    + Ideally children can go and help themselves when they are thirsty or hungry (or to sit and watch the world go by or get a little peace)
+
+
+### Progression of Activities - Principles
++ Indirect Preparation
++ Isolate a difficulty - offer the child one new challenge at a time 
++ Offer activities that are simple to complex
+
+## Principles of the Prepared Environment
++ Work cycle
+  + Allows the child to respond to their own needs
++ Freedom
++ Limits
++ Respect
+
+People:
++ Children 
++ Adults
+
+## Freedoms
