@@ -827,6 +827,7 @@ We have given thought, planned and prepared so that the Environment is ready to 
   + Harmony in physical and human elements
   + Purposeful hands on activity
   + Control of Error - the material is always auto-educational, rather than the adult telling them if it's correct or not
++ The child absorbs ALL of these characteristics of the environment
 
 
 
@@ -924,4 +925,41 @@ People:
 + Children 
 + Adults
 
-## Freedoms
+### Key Freedoms
+Freedom of:
++ Choice
++ Activity/Work
++ Time
++ Movement
+
+They exist to help support the development of each individual child and _also the smooth functioning of the group_.
+
+### Limits/Boundaries
++ One of each material
+  + We may have multiple polishings or drawings or washing activities but they are all different from each other and unique
++ Respecting the work of another and the environment
++ Returning work back [to the shelf]
+  + An activity in a Children's House is not finished until it is back in its place
+
+**We ALWAYS have a mixed age group.**
+
+***The Prepared Environment supports the development of:***
++ Co-ordingation of maovement
++ Language
++ Independence
++ REpetition
++ Concentration
++ Problem solving
++ Refinement of the senses
++ Social development
++ 'Keys to the world'
++ Mathematical concepts
+
+***Why is the environment the way it is?***
+The prepared environment takes into account the Human Tendencies. 
+
+Also takes into account the Absorbent Mind - absorption is enhanced by movement and doing things.
+
+Caters for sensitive period of refinement of sensory perception, language, order and social behaviour.
+
+***We didn't speak about the outdoor environment but it should be part of the Children's house.*** If we do not have a garden, we can always bring the outside in.
