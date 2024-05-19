@@ -749,7 +749,7 @@ Parent and Guide and Assistant work as a team to promote development of the chil
   + Must be maintained in perfect order
 3. To observe children so as to respond more appropriately
   + How best to respond to each unique child
-  + Help children to amange their behaviour in a contructive way
+  + Help children to manage their behaviour in a constructive way
   + Help observe the children so that every adult interacting with the child has a better understanding of the child
 4. In a Children's House, the teacher and the assistant are a team that works for the benefit of the child
   + Communicate
