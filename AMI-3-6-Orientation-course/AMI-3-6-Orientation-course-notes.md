@@ -773,7 +773,7 @@ Specific role of trained Montessori teacher is to **connect the child to the env
       + Without this practice we cannot understand the interconnectedness of the materials
 + ***Physical*** 
   + We must always be a role model in how we conduct ourselves
-    + Physical appearance and demeanor
+    + Physical appearance and demeanour
     + Communication and interaction with the child and colleagues
   + Read chapter 13 of Education for a New World on 'What a Montessori Teacher should be'
   + We are part of the environment and the child is going to absorb and imitate us
