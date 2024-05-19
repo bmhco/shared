@@ -844,7 +844,7 @@ Critical opportunities to develop:
 + Concentration
 + Can do Attitude
 
-Group Activites:
+Group Activities:
 + Grace & Courtesy
 + Walking on the Line (develops equilibrium but also supports child's social interaction)
   + The line needs to be free at _all times_, we **do NOT use it to sit on during group**
