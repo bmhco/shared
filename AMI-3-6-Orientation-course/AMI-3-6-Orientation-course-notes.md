@@ -725,7 +725,7 @@ Hopefully we observe every single day.
 + Be mindful of your body language and try to remain neutral
 + Dress formally but comfortably to sit down for long periods of time, remember to take layers as you can take them off
 + The school may ask for your report but if you don't feel comfortable sharing, you can feel free to say no
-+ Ask the school beforehand if they have any particular requirements (whether you need to bring paritcular shoes or a particular dress code)
++ Ask the school beforehand if they have any particular requirements (whether you need to bring particular shoes or a particular dress code)
 + Should not consume food or sweets or chew gum in the children's presence (unless the children offer you something)
 + Mobile phones off and not on your person
 + Strong odours like perfumes etc don't have a place in the Children's House
