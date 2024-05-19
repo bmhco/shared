@@ -944,7 +944,7 @@ They exist to help support the development of each individual child and _also th
 **We ALWAYS have a mixed age group.**
 
 ***The Prepared Environment supports the development of:***
-+ Co-ordingation of maovement
++ Coordination of movement
 + Language
 + Independence
 + REpetition
