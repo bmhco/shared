@@ -807,12 +807,16 @@ We have given thought, planned and prepared so that the Environment is ready to 
 
 
 ### Punishments and Rewards don't work
++ Punishments are one person exerting power over another
+  + Impacts child's motivation
+  + There's often fear AND humiliation
 + Punishing someone is not going to yield improved behaviour but rather create shaming, dissapointment, sadness and is not conducive for development
 + On rewards: parents feel they need to tell the child every little thing they do is amazing, awesome, super etc, but this isn't helpful
   + We are impinging on the child's autonomy in a big way
   + Where do you go from here?
   + Encouragement is different to empty praise
 + Allow the child to benefit from their mistakes
++ Not having punishments doesn't mean we don't have _consequences_
 
 
 ## Montessori Classroom Environment
@@ -850,8 +854,12 @@ Group Activites:
   + The line needs to be free at _all times_, we **do NOT use it to sit on during group**
 + Silence Game
   + Never imposed on children
+    + Ties into 3 levels of obedience below, where the child makes a silence because they have developed their will and are therefore able to choose to do so
   + Look at it on an active point of view that the children _make_ a silence as opposed to someone telling them to be silent
-    + "So making a silence is a result of development"\
+    + "So making a silence is a result of development"
+  + In Secret of Childhood, MM writes about the silence game
+  + We never _use_ the silence game to quieten down a class
+
 
 ***Sensorial***
 
@@ -963,3 +971,131 @@ Also takes into account the Absorbent Mind - absorption is enhanced by movement 
 Caters for sensitive period of refinement of sensory perception, language, order and social behaviour.
 
 ***We didn't speak about the outdoor environment but it should be part of the Children's house.*** If we do not have a garden, we can always bring the outside in.
+
+
+### Final thoughts on Prepared Environment.
+The only way their child is going to work on their own development and adaptation is by doing their own work. They develop by virtue of the experiences they have in their environment and we humans are part of that environment.
+
+The child really can renew human kind - Elina visited a Montessori school in a slum. The parents said 'the children changed us - before we didn't care about our environment, we would throw trash on the floor and not care about the communal areas and now, through our children, we care the our environment together.'
+
+
+Freedom
+Discipline
+Obedience
+What are the limits to your freedom?
+
+# Freedom, Discipline and Obedience
+
+Freedom and discipline are often misunderstood.
+**The point is that we need _both_.**
+
+One freedom that no one can take away is freedom of thought.
+
++ **Discipline**: _self-control_, which is a human tendency but remember that human tendencies can remain latent if they don't have the correct environment
+
+## How to Support Self Discipline in the Children's House
+**Inhibitory control** is very much in line with the notion of self discipline.
+
+**Self Disclipline Through Engagement:**
++ Rich motives for activity
++ Activities that respond to the child's development
++ Activities ofered in the way that they are of interest and appealing to the child
+
+If we let the child do whatever they want before they have any powers of self-control, this _betrays_ the idea of freedom
+
+Again, the key freedoms are:
++ Choice - free to choose activities that are developmentally appropriate for them at that time
+  + Observing a child for a while allows us to understand this inner choice
+  + Sometimes you hear "No, you cannot do that work" - you would NEVER say this, maybe -> "Let's put this away, we need to do some other work first and I'll show you something else" BUT if I feel the child has a reasonable chance to succeed, we would _not_ stop the child (this would undermine the value of the mixed age group)
++ Activity/Work - because through work, they develop
+  + But we don't go behind the child the whole time saying 'Go find something to work on' because if the child could have found their work, they would have! Guide them when appropriate
+  + **Remember that sometimes when the child may look like they're doing nothing, they're processing something** or when they're observing someone, they are learning
+    + If the child NEVER choses work, then maybe they haven't had enough presentations
++ Time
+  + Helps the child to overcome challenges or difficulties; it helps them to persevere
+  + This freedom is not absolute
++ Movement
++ Companions
+  + They _are_ free to work with each other and child is also free to say 'no thank you, I want to work by myself'
+  + One of the purposes of language is to establish and maintain relationship and we've talked about the human tendency for gregariousness, so children have to have the experience to communicate
+    + If you go and tell them to find their own work, you may be disrupting their development
+    + BUT if they are _disrupting_ other people, then for sure you need to 
++ Communication; socialization
++ Observe/be
++ Snack/drink - but there are limits
++ Toilet - they don't need to wait for the bell to ring
+
+There are freedoms, but if the child is doing something that is _not_ helpful to their development, then the adult needs to bring it to an end.
+
+## Limits/Boundaries
++ One of each material (or type of material)
+  + Eliminates clutter and helps the child to make a choice
+  + Eliminates competition because they're not working on the same thing simultaneously and every child can progress at their own place
++ Returning the work to its place - the activity isn't finished until this happens
+  + Support the smooth functioning of the environment
+  + We have to respect that the child does the best that they can do
+    + BUT if you know that this is _not_ the child's best effort (like throwing everything on the tray and dumping it on shelf) you should intervene and how you do this (softly or firmly), depends on the child
+  + If a child forgets to put something away and then is already working on something else, if they are _engrossed_ in their new activity, don't interrupt and put the work away yourself
++ Respecting the work of another and the environment
+
+### Praise
+There are so many dangers of empty praise.
+Of course if a child comes to show you something, you acknowledge it.
+
+We want to help the child think and act for themselves.
+
+### Control of Error
+
+We are teaching the child to think, judge and act for themselves, rather than being reliant on someone else's permission or judgement.
+
+Benefits:
++ Nature of the material is developmental
+  + Development takes time and is _not linear_ (some days we might be able to do something and the next day we cannot)
++ Allows for repetition and problem-solving
++ No fear of about making a mistake
+  + Saw in the film that a child had spilt some lentils and no adults came over shouting at her, she just knew to calmly to and get the dust pan and brush and clear it up
++ Perseverance; not giving up; overcoming challenges
++ No external validation needed; being able to judge for oneself
+
+
+## Obedience
+
+_Education for a New World_, Chapter 12, The Bugbear of Discipline  
+_Absorbent Mind_, Chapter 25, The 3 Levels of Obedience
+
+### 3 Levels of Growth of Obedience:
+1. The child has the functional capacity to do something,but **the child may or may not obey what is asked depite being _able_ to**
+  + e.g. If you ask your child to get dressed they do it. But tomorrow you ask your child to do something and they won't - adult gets aggravated but child may just need your presence (i.e. they need you emotionally but not physically)
+  + They are not _deliberately_ acting against us
+2. We have the capacity to obey, not prevented from a functional point of view _or_ emotional point of view or any point of view
+  + Even though we obey, it's more like 'alright then', we are not particularly thrilled to obey
+  + MM says most adults have only reached this second level of obedience
+3. In children, MM observed a 3rd level of obedience where child **obeys *voluntarily* and *with joy***
+  + This stage is _not_ blind obedience (imposed obedience) - this is very important 
+  + It is the **final stage of a developed well**, obedience that comes from a developed will
+  + Obedience is a quality of the human being without which we could not function as a group
+  + Harks back to the silence game, the children _made_ a silence because they had developed their will sufficiently to choose to do so
+  + When they reach this stage, they do so many things for the adult and the environment, so we need to be _worthy_ of this and not abuse it!
+    + An example of this stage might be adult say 'Oh looks like the dog is hungry' and child says 'Oh I'll feed her' when in the past if asked to feed the dog in the past she may have said 'oh I don't feel like it' - it's willingly and happily given
+
+  True adaptation, it's not enough that we are content and have a sense of belonging. MM said a truly adapted human being wants to be of service and wants to do something for the benefit of their immediate group.
+
+# Social Development
+
+
++ The child's development can only be attained with the presence of other humans
++ At around 2.5/3 years old, the child begins to seek a wider human context and expand their social horizons
++ Relevant human tendencies could be communication, gregariousness, imitation, etc
++ Remember that with the Absorbent Mind the child absorbs how we relate to each other, how we speak to each other etc
++ Sensitive periods: Language and Social Behaviour
++ One of the things that takes this into account in the Children's House is the **mixed age group**
+  + Children get to live a truly social life rather than getting to purely hear these sentiments of 'be nice', 'behave well', we give them the opportunity to live as a member of a community
++ By nature, children are not competitor (as observed by MM)
+  + **Climate in Casa is one much more of collaboration and cooperation rather than of competition** - having one of each item is really a big deal!
+  + Children see different personalities and temperaments and develop an appreciation of one another - they appreciate differences, that we are not all the same
++ MM observed that children rejoice in each other's achievements and didn't feel one took away from their own
++ **Sharing**: Children don't have to share, you can use the material as long as you need to
+  + Welcome to work together as long as it's in a constructive way
++ We foster independence but not at the expense of interdependence
+  + The more you are able to do something for yourself, the more you are able to help your community - if you can pour yourself a drink, you can pour someone else a drink or water a plant
+  + A younger child often do things for themselves because their will is still under construction, but older children tend to do more for the community
