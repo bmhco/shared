@@ -651,7 +651,7 @@ Works other things too but this is the main aim
 + Independence is not a static condition
 + Child is not going to construct language or movement without other humans but the more independent one becomes, the more one is able to make a contribution for other in the environment so it’s a virtuous cycle
 
-> No one can be free if he is not independent, therefore the active manifestations of persona l liberty must be guided from earliest infancy.  
+> No one can be free if he is not independent, therefore the active manifestations of personal liberty must be guided from earliest infancy.  
 ~ Maria Montessori, Discovery of the Child, p.57, Clio
 
 + Independence goes together with **responsibility**
