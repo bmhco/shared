@@ -780,7 +780,7 @@ Specific role of trained Montessori teacher is to **connect the child to the env
 + ***Spiritual***
   + 'Looking into ourselves' - inner preparation
   + Trying to get rid of anything that might prevent us from seeing the child objectively and supporting the child accordingly; our attituted, disposition
-  + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling proficies
+  + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling prophecies
   + Liking versus loving every child - do our best to support each unique child in our care, we must love every child
 
 # Preparation of the Environment
