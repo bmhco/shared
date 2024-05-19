@@ -867,7 +867,7 @@ Helps child to:
 Remember a lot of this isn't on the shelf, it's in **our interactions with the children**.
 
 + Two main functions:
-  + Tool for communciation 
+  + Tool for communication 
   + Tool for cognitiion / our thinking 
 + Casa OFFER ACTIVITIES FOR:
   + 3 first point in screenshot slide
