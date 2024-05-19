@@ -868,7 +868,7 @@ Remember a lot of this isn't on the shelf, it's in **our interactions with the c
 
 + Two main functions:
   + Tool for communication 
-  + Tool for cognitiion / our thinking 
+  + Tool for cognition / our thinking 
 + Casa OFFER ACTIVITIES FOR:
   + 3 first point in screenshot slide
   + Child is listened to and understood
