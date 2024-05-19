@@ -807,7 +807,7 @@ We have given thought, planned and prepared so that the Environment is ready to 
 
 
 ### Punishments and Rewards don't work
-+ Punishing someone is not going to yield improved behaviour but rather create shaming, dissapointment, sadness and is not conducive for development
++ Punishing someone is not going to yield improved behaviour but rather create shaming, disapointment, sadness and is not conducive for development
 + On rewards: parents feel they need to tell the child every little thing they do is amazing, awesome, super etc, but this isn't helpful
   + We are impinging on the child's autonomy in a big way
   + Where do you go from here?
