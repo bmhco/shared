@@ -736,7 +736,7 @@ Hopefully we observe every single day.
 
 # Role of the Adult
 
-"Education shoud no longer be mostly imparting of knowledge, but moust take a new path, seeign ghte release of human potentialities." - New Education
+"Education should no longer be mostly imparting of knowledge, but must take a new path, seeing the release of human potentialities." - New Education
 
 Parent and Guide and Assistant work as a team to promote development of the child.
 
