@@ -684,7 +684,7 @@ Works other things too but this is the main aim
   + Almost like they are oblivious to what is happening around them
 + What happens in between activities
 + Repetition, exploration and discoveries
-+ Problem solving, effor and level of challenge
++ Problem solving, effort and level of challenge
   + What happens? Do they persevere and try to find a solution or go ask for help?
 + Co-ordination & motor skills (gross and fine)
 + **Language**
