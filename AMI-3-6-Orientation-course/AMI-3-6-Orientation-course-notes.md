@@ -1099,3 +1099,134 @@ _Absorbent Mind_, Chapter 25, The 3 Levels of Obedience
 + We foster independence but not at the expense of interdependence
   + The more you are able to do something for yourself, the more you are able to help your community - if you can pour yourself a drink, you can pour someone else a drink or water a plant
   + A younger child often do things for themselves because their will is still under construction, but older children tend to do more for the community
+
+"To let the child do as he likes when he has not yet developed powers of control, would be to betray the idea of freedom." Absorbent Mind, p.187, Clio
+
+Self control develops through the child's individual activity. Some self control is needed before the child partakes in group activities.
+
+"The first essential for the child's development is concentration. It lays a whole basis for his character and social behaviour." Absorbent Mind, p. 230, Clio
+
+# Grace & Courtesy
+
++ **Grace:** Moving harmoniously in tune with our surroundings
+  + Elegant, beautiful, deliberate movements
++ **Courtesy:** being mindful and thoughtful of others
+
+
+They help the child to be a member of a community and participate within the community in a harmonious way.
+
+Particular to culture - we all greet, but _how_ we greeet varies from one culture to another.
+
+Of course with the absorbent mind, it takes in everything we model, everything we do and everything we say.
+Sensitive periods for language, coordinated movemement and social behaviour all play a part.
+
+_Grace and courtesy activities do not support concentration._ This comes from the child's _individual_ acitivities.
+
++ Some g&c activities are done every time there are _new_ children
+  + e.g. how to walk around rugs because rugs are workspaces
++ Some done based on what we observe
+  + If we notice there's a lot of running around and a lot of calling across the room, we make a mental note and then at a neutral moment organise a group to show them how it's done
++ We want to preserve the children's dignity - not about nameing and shaming, you make a **mental note and don't correct them infront of everybody** - very important
++ We **always** present g&c activities _in a group_ so that we are not singling out individual children
++ Strive to show the children what to _do_ rather than what _not_ to do
++ Repetition is important, maybe do them slightly differently - add challenge or different props - to keep interest
++ Use positive language, say what you want them to do as opposed to what you want them not to do
+  + 'Hey, let's put your work back on the shelf' instead of 'Hey, you forgot to put your work back' and 
++ If some conduct in the children's house begins to bug you or grate, it's a good sign that a g&c group needs to be organised so they can learn
++ They support children's social adaptation, their coordination of movement, independence and also gives them the skilll of the activity that is being done
++ Very powerful when it comes from the peers
+
+## Activities
++ How to carry sharp object: scissors, pencils, knives, forks
+  + Can do this with different things two days later so it feels new
++ Offering to do things for others (like pouring a glass of water when you're already pouring for yourself)
++ Walk across the room
++ Walk around a mat
++ Walking up and down stairs (with and without something to carry)
++ Sit on a chair
++ Carry a chair
++ Stack a chair or stool
++ Unroll and roll a rug
++ How to carry: tray, bucket, jug, tray with objects
++ How to carry a mat/rug
++ Tuck a chair under the table
++ Put on a coat/shoes/slippers/mittens
++ Open & close door
++ Open and close a drawer
++ How to observe someone else's work, so that they can continue to work in a peaceful way
++ How to ask for help
++ How to offer help
++ Introducing oneself
++ _How to get someone's attention_
+  + There is no 'Montessori way' of doing this (or any of these kinds of things), just think about what would help the child in real life
+  + In some Children's Houses it has become a habit that they go and pat the Guide's shoulder, Elina hates this because she doesn't want to be touched and wants whoever wants her attention to look her in the eye, not stand behind her tapping her shoulder
+  + Other places have some kind of a prop or shell infront of a teacher if they need help - this is completely not real life
+  + Elina used to Demo in a way that she has a child that she was showing something to and then helper comes to stand nearby kind of close and waited without saying anything until Elina lifted her gaze and said 'yeeees?' - you're allowed to think for yourself, do this however you think is useful
++ How to get past a tight space
++ How to say please and thank  you
++ How to offer something
++ _How to observe someone's work_
++ How to accept/decline something
+  + You would do the offering of the thing in a separate, previous g&c
++ _How to ask for something that is out of reach_
++ How to speak in class
++ How to greet someone
++ Coughing/yawning/sneezing...
++ Excuse me...
++ _How to apologize_
++ _How to set a boundary / say 'no'_
+  + "Please don't do that, I don't like it."
+
+![observing-others-work](https://github.com/nelsonic/private/assets/4185328/305afb65-7f51-44b9-8e47-4d2affc860e9)
+
+#### Impromptu discussion on the Snack Table
+Elina is not keen at all on children preparing something and then going around and offering it to all the children immediately because it's very disruptive. They should put it on the snack table and everyone can go get their things when they are done with their work.
+ - With the snack table you can have multiple grace and courtesy lessons - first how to take snacks and then how many to take and then other lessons
+   - Elina gave example of children in the beginning shouting 'we want more snacks, they're finished!', then g&c and it became 'can we have some more snacks please?' still shouted, then next g&c and it become 
+   - This was done at the snack table, guides sitting and eating and then 'oh, snack is finished, what can we do?' and modelling going to ask for more snacks
+ - If you have a new class and a lot of young children maybe you need to prepare the snack but later the children can start preparing it too for the whole group (not for themselves)
+   - Sometimes when everything has been used it is replenished by the children
+ - Sometimes kids go to the snack table just to have a chat with the friends or watch the world go by and if you only have snacks passed around the circle, they lose the freedome to have a snack whenever they want
+
+ # Groups
+ + We need to think about why are calling the group - we should _only_ have them **when needed**
+   + Elina feels many Children's Houses have far too many groups and far too often
+     + No reason to have a morning group all the time - some children when they come in might already know what they want to do and a group disrupts them
+  + Groups often serve adults more than children
+  + Children develop focus and concentration through individual work and not groups, that's why we have work cycles
+  + If you have children wandering around you can collect them and have a little group
+    + Do whatever you think is advantageous for the children, sometimes it might be an action song, a grace & courtesy, a news period etc
++ Think how many children
+  + Often better to repeat same activity with smaller groups
++ Need to be planned; have all the materials you need before you invite the children unless you're going to ask the children to get the materials
+  + Can also organise chairs/cushions beforehand
++ Typically call the children _individually_
+  + With young children you might be direct 'Come with me, I'm going to organise a group'
+  + With some you might say 'Would you like to join a group'
+  + They can bring a placemat or a chair themselves when you invite them (you indicate _where_ they put it) OR you can show them where to sit on the chairs you have already put out
++ Position yourself in a way you can maintain non-verbal communication _with your colleagues_ and **see the classroom**
++ Some children may _want_ to sit next to you but they don't _need_ to sit next to you (or another adult who may be in the group), so just be aware of the ones who _do_ benefit from sitting next to you
++ Try not to get into a pattern so **vary how you start a bit**
++ Do _one thing_ in the group, otherwise it gets into a rut and drags on
++ Guard the group
+  + If children are dribbling in, it can take away from the focus of the class and of the group
+  + If you do small groups frequently then children know they will eventually be called and there will be another opportunity soon
++ 3 minutes to max 15 minutes
++ Sometimes when you invite child to leave, they don't want to
+  + Give them the choice 'are you able to go find your work or do you need help?'
++ Sometimes children test if you will do what you say you will do - there have to be consequences
+  + e.g Child was really disrupting group 
+
+### Dismissing the Group
++ Dismiss them individually
++ Dismiss the ones who already know what they are going to do first
++ If they don't know what to do, you can offer them two choices of activities that they know and are ready for
++ For younger children, you can leave them til the very end and actually go to the shelf with them to guide them
+
+<hr/>
+
+#### Side note, a useful song:  
+
+Point to the ceiling, point to the floor, point to the window, point to the door
+Rolly rolly rolly clap clap clap
+Fold up your hands and put them in your lap
