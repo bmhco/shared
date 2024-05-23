@@ -1230,3 +1230,96 @@ Elina is not keen at all on children preparing something and then going around a
 Point to the ceiling, point to the floor, point to the window, point to the door
 Rolly rolly rolly clap clap clap
 Fold up your hands and put them in your lap
+
+
+# Art
++ MM looked at art as one of the channels through which we communicate (a human tendency)
++ Quite different from 'production line art'
++ Human Tendencies: Exploration , repetition, concentration, abstraction, imitation, communication, exactness, etc
+
+## Introducing Art
+
++ When we introduce artists and art, we should
+  + Be mindful of introducing women - Mary Cassatt's 'Sarah & the Cat', Frida Kahlo 
+    + Of course be careful which aspects of Kahlo's life you share with children
+  + Be mindful of introducing people who are alive (art is not only made by dead white men) - like Andy Goldsworthy (makes nature art)
+  + Share artists from different continent, especially the children's own continent and country
+  + Share things of interest, relevant and _positive_
+    + Probably not 'Guernica' at this age
+  + Not all art is made by a brush, beadwork on Masai headpieces and necklaces is a good example, printing on fabric, photography
+
+
+### Group Activity
+Introducing artists
++ Verbal intro
++ Show pictures
++ Books - Great series 'I spy animals in art' and other things in art by Lucy Micklethwait but out of print, you could make your own DIY ones!
++ Visit art galleries
+
+### Individual Activity
++ Classified pictures
+  + Classified by artist (showing progression over time for example)
+  + Classified topic/theme (flowers in art or children in art for example)
+  + + Classified by medium/technique (sculptures, oil painting, watercolour, print, etc)
++ Classified reading
++ Further reading
+
+## Inspiration through the Prepared Environment
++ Art on the walls - real art or prints
+  + A great way to make art cards or get prints for the wall is to buy a previous year's art-themed calender
++ Sculpture
++ Objects - maybe a bowl of fruit at the snack table is a good still life, or flowers
++ Books - not necessarily in the book corner, you could have display them near the art section
+
+### Preparation for Art
++ Indirect preparation through practical life: Co-ordination, independence and concentration
++ Indirect preparation thorugh the sensorial materials: refinement of senses
+
+### Introducing different techniquees
+We typically just show them how to use the tools.
+
+Examples:
++ Painting (poster paints, watercolour, etc)
++ Drawing (start typically with some chubby pastels or chalks or charcoal - you need a fixative like hairspray - and only give children pencil when they have been introduced to how to use a pencil which happens via the metal insets)
++ Printing (hand printing, potato printing, lino printing, printing with objects like cotton reels or legos or plants and leaves you find on the ground)
++ Collage
++ Modelling (with air dry clay for examples, plaster of paris finger or hand)
+
+### Art Principles
++ Indirect preparation
+  + e.g. For watercolours, show how to dip the brush in water, blot off excess water, go onto paint and paint on paper
++ Isolation of difficulty - offer one new component/challenge at a time
++ Activities are complete, offer functional tools and foster independence
+  + Test the tools yourself so that the colours are strong/visible for example and they are child sized
++ Freedom of choice - we don't need to have an art specialist, all of us can show the children how to use the tools
+  + Typically are on the art shelf and have a couple of different techniques on the shelf
+  + Don't overdo it, because some children do only art when they don't know what else to choose  
++ Individuality of expression - not `clone` art where whole class does the same thing
+  + At some seasonal times of year, you can do some things together but provide the ingredients and let them do their own thing
+  + Example, cinammon sticks, dried orange slices and other things for kids to create mobiles - all were mobiles but all were different (see picture below)
++ Rotate activities/techniques
+  + A great idea if you're talking about painters doing self-portraits, you can have a mirror on the table so they can look in the mirror as they are drawing :heart: 
+
+![christmas-mobiles](https://github.com/nelsonic/braga/assets/4185328/f9150d39-0587-4ca5-b41b-3fc10de30f38)
+
+
+We don't normally display children's artwork in children's house but we could easily have a cork board low down **so that children can choose to put their own work up**.
+
+### Painting Easel
++ Complete activity
++ Colour-coding
++ Paints & brushes
++ Apron
++ Paper - a range of colour and _sizes_
++ Do a little group activity to show what to do:
+  + Attaching paper
+  + Cleaning - bucket, sponge, howl, drying cloth
+  + Place to put painting to dry - clothes horse or oil cloth in an area of the classroom so it lays flat
+  + Writing name - attach a pencil to the easel
+
+
+Note that parents are also keen to get art home, but you can just tell them that it's available but at the moment, the interest is elsewhere
+
+
+> "To confer the gift of drawing we must (help the child) to create an eye that sees, a hand that obeys, a soul that feels and in this task the whole life must operate'" - Advanced Montessori Method, Vol. 2 (Clio), p. 309, Clio
+
