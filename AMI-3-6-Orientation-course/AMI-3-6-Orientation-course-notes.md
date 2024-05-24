@@ -1323,3 +1323,76 @@ Note that parents are also keen to get art home, but you can just tell them that
 
 > "To confer the gift of drawing we must (help the child) to create an eye that sees, a hand that obeys, a soul that feels and in this task the whole life must operate'" - Advanced Montessori Method, Vol. 2 (Clio), p. 309, Clio
 
+<img width="1031" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/4d71a626-cca8-4c6f-a429-d211b7d0446c">
+<img width="1044" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/cc30dd4e-2efd-4625-b6e9-62f29cf310ef">
+
+
+# Music
+
+## 0-3 and Beyond
++ Singing 
++ Dancing
++ Listening to Music
++ Playing percussion
+
+> It shoudl be understood that there must be music throughout the day in addition to the exercises we present.
+- Developing the Musical Senses, p. 11
+
+## Introducing music
++ Instruments of the orchestra
+  + Introducing instruments
+  + Introducing composers
++ Some music ideas for children
++ Small music groups with children
+
+Some Montessori materials:
++ Sound boxes (discriminate loud or soft)
++ Montessori bells (to discriminate high and low pitch)
+
+## Concerts for Children
+
+## Introducing Composers
+Firstly introduce the children to the idea of a composer - a composer is a little like an author; instead of books they write music
++ Show picture of a composer
++ Tell a little story
++ Listening to music by the composer
++ Same principles as for art, make sure to introduce a variety, including women and contemporary composers
+
+### Group Activity
++ Verbal intro
++ Show picture
++ Play some music
+
+### Individual Activity
++ Classified pictures
++ Classified reading
++ Further reading
++ Selection of music always available to listen to in a music corner
+
+Examples:
+![image](https://github.com/nelsonic/baby/assets/4185328/8090c474-7162-4956-ad5f-ebef8862d88e)
+
+
+## Introducing Instruments
+
+### Group Activity
++ Introduce real instruments and music when possible
++ Pictures/books; play music
+
+### Individual Activity
++ Classified Pictures & classified Reading
++ Further Reading
++ Music for the children to listen to independently
+
+## Music groups with Children
+
+### Group activities
++ Singing, action songs, etc.
++ Introduce children's (percussion) instruments:
+  + Handling / When to play / when to stop
++ Child can be the maestro
+  + Sign for stop like putting hands together 
+  + Signs for louder, softer, faster, slower (just do louder and softer at first)
++ Music and Movement
++ Opportunities for individual activity
+ 
