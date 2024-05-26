@@ -1326,6 +1326,30 @@ Note that parents are also keen to get art home, but you can just tell them that
 <img width="1031" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/4d71a626-cca8-4c6f-a429-d211b7d0446c">
 <img width="1044" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/cc30dd4e-2efd-4625-b6e9-62f29cf310ef">
 
+### Examples of art
++ Remember to always wear an apron when demonstrating and get them to also wear one
++ Test the paper beforehand to see which kinds of paper work best (white paper, thicker paper, sugar paper, coloured paper)
++ **Offer coloured paper too** to add to interest
+
++ **Wax painting**
+  + Draw with the non-wick end of a candle on any paper
+  + Take watercolours and paint stripes across paper (show proper use of watercolours)
++ **Transfer painting**
+  + Use sugar paper if possible
+  + Put 3 colours of paint blobs near each other on piece of paper (3 diff colours)
+  + Use two fingers and flatten each blob rubbing the paint into a little circle on the paper (they should touch or overlap)
+  + Clean off your fingers
+  + Run a single finger through the paint and make a pattern (it will essentially take the paint off the areas you go through)
+  + Clean finger, Put another piece of paper ontop (coloured papers or black work really well), smooth out and you get a transfer print on the top paper
++ **Blow painting**
+  + If you can get paint with a strong pigment, that's wonderful because it gives more of an effect (Elina had Tiger paints and they weren't strong)
+  + Use slightly thicker paper and liquid paint (you can dillute acrylic paint with water in a little bottle for example)
+  + Beforehand make sure the child knows how to blow into the straw because normally we do the opposite!
+    + Blowing into a straw and feel the air against your hand
+  + Shake the bottle, pour a little paint onto the paper
+    + Have a _sponge_ and show how to clean the top of the paint nozzle
+  + Pour some of anothe colour nearby
+  + Take straw and blow paint around
 
 # Music
 
@@ -1395,4 +1419,11 @@ Examples:
   + Signs for louder, softer, faster, slower (just do louder and softer at first)
 + Music and Movement
 + Opportunities for individual activity
+
+<hr/>
+
+When you play music you need to give the children space to _move_ as well as the possibility of just listening to music and enjoying it.
+
+Camille Saint-Saens wrote the Carnival of the Animals which has some really fun classical music, such as the Waltzing Elephant and the March of the Lions and The Swan, The Tortoise and The Aquarium.
  
+You would never play _background_ music in a classroom because at this age it's important to give the childrent the understanding that you **listen** to music.
