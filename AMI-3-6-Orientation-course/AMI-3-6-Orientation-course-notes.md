@@ -1176,6 +1176,7 @@ _Grace and courtesy activities do not support concentration._ This comes from th
 + _How to apologize_
 + _How to set a boundary / say 'no'_
   + "Please don't do that, I don't like it."
++ If you see kids 'correcting' other kids and telling them what they're doing isn't right, you might want to do a g&c on that
 
 ![observing-others-work](https://github.com/nelsonic/private/assets/4185328/305afb65-7f51-44b9-8e47-4d2affc860e9)
 
@@ -1427,3 +1428,83 @@ When you play music you need to give the children space to _move_ as well as the
 Camille Saint-Saens wrote the Carnival of the Animals which has some really fun classical music, such as the Waltzing Elephant and the March of the Lions and The Swan, The Tortoise and The Aquarium.
  
 You would never play _background_ music in a classroom because at this age it's important to give the childrent the understanding that you **listen** to music.
+
+# Classified Cards
++ 2.5 to 3, children start working with the pre-reading classified cards (no words on them)
++ By now, age 4.5 or so, we get the child to lay out the cc's
+  + They will probably already know all the names as they've been working with them for a couple of years
+    + If the child has forgotten the name of something when they are at this stage, you would just say the name of the object 
+  + Get them to say the name of each thing as they put it down on the mat
+  + Get them to place the cards down spaced as you'll need space for the labels underneath and the control cards next to it
++ In second basked is control card and name labels (reading set of cc's)
++ Give child a label to read and then they place it under the cc, matching them to the object
++ They take another label, read and match
++ At the end they take the control cards and read and place them next to the ones they have matched on the mat
+  + Now they can read through everything again (they say the same word twice) and make sure everything matches
+
+# Role of the Adult and the Prepared Environment and Observation
+
++ Observation should be systematic and consistent
+  + Should be part of our daily practice
+  + The more _every_ adult in the environment observes, the more comprehensive the picture we have of the child
++ Gather reelvant data
++ Analyse, evaluate and reflect
++ Take action accordingly
+
+Elina used to observe children in the Children's House too.
+
+Considerations:
++ Level of challenge - are they choosing easy/challenging?
++ Repetition - which kind are they repeating and why?
++ When to intervene/interruption
+  + For example, if children are using red rods as swords, you intervene
+  + If children are playing with knobless cylinders and they start playing families with them (one is mummy, daddy, sister, etc), then time to put it away "Why don't we put the pink tower away now and go and look for something else"
+    + Better to put it away and you can guide them to how to use it properly another dayß
+  + Every material has a purpose, so if child is doing something that is impacting others _or_ not good for their own development, we have to intervene
+  + But be careful, if the child is using the material for the purpose but not exactly as demonstrated, _don't intervene_
+    + e.g. putting red rods in sequence but doing it largest to smallest instead of smallest to largest, or doing it vertically instead of on the floor
+  + True exploration is based on understanding - a lot of sins are commited in the name of exploration, "oh the child is just exploring"
+  + We must protect the child's concentration (this is 10 minutes onwards, not just 2 minutes), especially in the beginning it's still in the process of formation
+    + Don't go and interrupt them with praise or vocabulary
+    + MM said even a look or a smile can disrupt concentration
+    + We need to also guard the child from other children
+    + We need to be "guardian angels of minds concentrated in work" - MM
++ When to offer help/step in
+  + Sometimes you help with one small thing and they can keep going
+  + If a child is doing the pink tower for example and he puts all the pieces in the wrong order, you _don't step in_
+    + This just tells you either that they can't yet discriminate 3D dimensions yet or that they're just not interested in the material and both of these situations are ok
+    + Sometimes children can't do it on a mat (like the pink tower) but can put it back in its place correctly
+      + This is because of the absorbent mind, they have memorised it in its place!
+  + When a child has put something back 'wrong' (like the pink tower order) but to the best of their ability, we leave it and only go at a neutral moment to change it
+  + Sometimes children choose work to look busy so the adult doesn't come and ask them to choose a material
++ When to be active, when to be passive
+  + At the beginning of the year or when you have a lot of new children, you may be very active
+  + If you have a truly mixed age group, you eventually get the older children showing the younger ones how to do things
+
+
+### Practical Tips for Observations
++ Keep your observation log in a place where every adult in the classroom can add to it
++ Useful to have a few shorthands for observations, these are Elina's:
+![observation-shorthand](https://github.com/nelsonic/shoshin/assets/4185328/5d35f935-12a6-4dad-b75f-8d2875611a3d)
+  + If you don't see any `P` (presentation) or `RP` (re-presentation) then we have to ask why this child isn't getting any presentations
+  + If you see everything is `DC` (directed choice) it tells you the child isn't choosing independently
+  + `WD` - work but distracted, when the hand is busy but so is the mouth
+  + `S` Socialising which is not a bad thing
+  + Concentration is also important to capture 
+
+# Montessori Principles in a Nutshell
++ Freedoms with Limits
++ Individualised Instruction
++ Uninterrupted Work Cycle
++ Mixed Age Group so a child can live a truly social life and function as a member of a community
++ Control of Error, child can solve their own problems
+
+
+At Home, how can we:
++ Support coordinated movement?
++ Support independence?
++ Help them participate in daily life and community?
++ Offer them freedome with limits?
++ Remove obstacles?
++ Only offer hope as needed?
+
