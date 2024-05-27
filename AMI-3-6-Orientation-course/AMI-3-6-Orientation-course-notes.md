@@ -1213,10 +1213,15 @@ Elina is not keen at all on children preparing something and then going around a
   + If children are dribbling in, it can take away from the focus of the class and of the group
   + If you do small groups frequently then children know they will eventually be called and there will be another opportunity soon
 + 3 minutes to max 15 minutes
-+ Sometimes when you invite child to leave, they don't want to
++ Sometimes when you invite child to leave, if they are being disruptive for example and they don't want to
+  + "Would you like to go and work on ... or stay here?"
   + Give them the choice 'are you able to go find your work or do you need help?'
-+ Sometimes children test if you will do what you say you will do - there have to be consequences
++ Sometimes children test if you will do what you say you will do - **there have to be consequences**
   + e.g Child was really disrupting group 
+  + Tears don't change the consequences of actions
+  + Don't be afraid to set a limit
+  + May need assitence from a colleague
+  + Never force anyone to do anything they don't want to
 
 ### Dismissing the Group
 + Dismiss them individually
