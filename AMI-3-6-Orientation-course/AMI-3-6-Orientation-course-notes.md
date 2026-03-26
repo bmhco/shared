@@ -651,7 +651,7 @@ Works other things too but this is the main aim
 + Independence is not a static condition
 + Child is not going to construct language or movement without other humans but the more independent one becomes, the more one is able to make a contribution for other in the environment so it’s a virtuous cycle
 
-> No one can be free if he is not independent, therefore the active manifestations of persona l liberty must be guided from earliest infancy.  
+> No one can be free if he is not independent, therefore the active manifestations of personal liberty must be guided from earliest infancy.  
 ~ Maria Montessori, Discovery of the Child, p.57, Clio
 
 + Independence goes together with **responsibility**
@@ -684,7 +684,7 @@ Works other things too but this is the main aim
   + Almost like they are oblivious to what is happening around them
 + What happens in between activities
 + Repetition, exploration and discoveries
-+ Problem solving, effor and level of challenge
++ Problem solving, effort and level of challenge
   + What happens? Do they persevere and try to find a solution or go ask for help?
 + Co-ordination & motor skills (gross and fine)
 + **Language**
@@ -725,7 +725,7 @@ Hopefully we observe every single day.
 + Be mindful of your body language and try to remain neutral
 + Dress formally but comfortably to sit down for long periods of time, remember to take layers as you can take them off
 + The school may ask for your report but if you don't feel comfortable sharing, you can feel free to say no
-+ Ask the school beforehand if they have any particular requirements (whether you need to bring paritcular shoes or a particular dress code)
++ Ask the school beforehand if they have any particular requirements (whether you need to bring particular shoes or a particular dress code)
 + Should not consume food or sweets or chew gum in the children's presence (unless the children offer you something)
 + Mobile phones off and not on your person
 + Strong odours like perfumes etc don't have a place in the Children's House
@@ -736,7 +736,7 @@ Hopefully we observe every single day.
 
 # Role of the Adult
 
-"Education shoud no longer be mostly imparting of knowledge, but moust take a new path, seeign ghte release of human potentialities." - New Education
+"Education should no longer be mostly imparting of knowledge, but must take a new path, seeing the release of human potentialities." - New Education
 
 Parent and Guide and Assistant work as a team to promote development of the child.
 
@@ -749,7 +749,7 @@ Parent and Guide and Assistant work as a team to promote development of the chil
   + Must be maintained in perfect order
 3. To observe children so as to respond more appropriately
   + How best to respond to each unique child
-  + Help children to amange their behaviour in a contructive way
+  + Help children to manage their behaviour in a constructive way
   + Help observe the children so that every adult interacting with the child has a better understanding of the child
 4. In a Children's House, the teacher and the assistant are a team that works for the benefit of the child
   + Communicate
@@ -773,14 +773,14 @@ Specific role of trained Montessori teacher is to **connect the child to the env
       + Without this practice we cannot understand the interconnectedness of the materials
 + ***Physical*** 
   + We must always be a role model in how we conduct ourselves
-    + Physical appearance and demeanor
+    + Physical appearance and demeanour
     + Communication and interaction with the child and colleagues
   + Read chapter 13 of Education for a New World on 'What a Montessori Teacher should be'
   + We are part of the environment and the child is going to absorb and imitate us
 + ***Spiritual***
   + 'Looking into ourselves' - inner preparation
   + Trying to get rid of anything that might prevent us from seeing the child objectively and supporting the child accordingly; our attituted, disposition
-  + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling proficies
+  + No prejudgment, or labelling the child as 'good' or 'bad' - these become self fulfilling prophecies
   + Liking versus loving every child - do our best to support each unique child in our care, we must love every child
 
 # Preparation of the Environment
@@ -848,7 +848,7 @@ Critical opportunities to develop:
 + Concentration
 + Can do Attitude
 
-Group Activites:
+Group Activities:
 + Grace & Courtesy
 + Walking on the Line (develops equilibrium but also supports child's social interaction)
   + The line needs to be free at _all times_, we **do NOT use it to sit on during group**
@@ -875,8 +875,8 @@ Helps child to:
 Remember a lot of this isn't on the shelf, it's in **our interactions with the children**.
 
 + Two main functions:
-  + Tool for communciation 
-  + Tool for cognitiion / our thinking 
+  + Tool for communication 
+  + Tool for cognition / our thinking 
 + Casa OFFER ACTIVITIES FOR:
   + 3 first point in screenshot slide
   + Child is listened to and understood
@@ -952,7 +952,7 @@ They exist to help support the development of each individual child and _also th
 **We ALWAYS have a mixed age group.**
 
 ***The Prepared Environment supports the development of:***
-+ Co-ordingation of maovement
++ Coordination of movement
 + Language
 + Independence
 + REpetition
