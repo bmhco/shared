@@ -807,12 +807,16 @@ We have given thought, planned and prepared so that the Environment is ready to 
 
 
 ### Punishments and Rewards don't work
-+ Punishing someone is not going to yield improved behaviour but rather create shaming, disapointment, sadness and is not conducive for development
++ Punishments are one person exerting power over another
+  + Impacts child's motivation
+  + There's often fear AND humiliation
++ Punishing someone is not going to yield improved behaviour but rather create shaming, dissapointment, sadness and is not conducive for development
 + On rewards: parents feel they need to tell the child every little thing they do is amazing, awesome, super etc, but this isn't helpful
   + We are impinging on the child's autonomy in a big way
   + Where do you go from here?
   + Encouragement is different to empty praise
 + Allow the child to benefit from their mistakes
++ Not having punishments doesn't mean we don't have _consequences_
 
 
 ## Montessori Classroom Environment
@@ -850,8 +854,12 @@ Group Activities:
   + The line needs to be free at _all times_, we **do NOT use it to sit on during group**
 + Silence Game
   + Never imposed on children
+    + Ties into 3 levels of obedience below, where the child makes a silence because they have developed their will and are therefore able to choose to do so
   + Look at it on an active point of view that the children _make_ a silence as opposed to someone telling them to be silent
-    + "So making a silence is a result of development"\
+    + "So making a silence is a result of development"
+  + In Secret of Childhood, MM writes about the silence game
+  + We never _use_ the silence game to quieten down a class
+
 
 ***Sensorial***
 
@@ -963,3 +971,545 @@ Also takes into account the Absorbent Mind - absorption is enhanced by movement 
 Caters for sensitive period of refinement of sensory perception, language, order and social behaviour.
 
 ***We didn't speak about the outdoor environment but it should be part of the Children's house.*** If we do not have a garden, we can always bring the outside in.
+
+
+### Final thoughts on Prepared Environment.
+The only way their child is going to work on their own development and adaptation is by doing their own work. They develop by virtue of the experiences they have in their environment and we humans are part of that environment.
+
+The child really can renew human kind - Elina visited a Montessori school in a slum. The parents said 'the children changed us - before we didn't care about our environment, we would throw trash on the floor and not care about the communal areas and now, through our children, we care the our environment together.'
+
+
+Freedom
+Discipline
+Obedience
+What are the limits to your freedom?
+
+# Freedom, Discipline and Obedience
+
+Freedom and discipline are often misunderstood.
+**The point is that we need _both_.**
+
+One freedom that no one can take away is freedom of thought.
+
++ **Discipline**: _self-control_, which is a human tendency but remember that human tendencies can remain latent if they don't have the correct environment
+
+## How to Support Self Discipline in the Children's House
+**Inhibitory control** is very much in line with the notion of self discipline.
+
+**Self Disclipline Through Engagement:**
++ Rich motives for activity
++ Activities that respond to the child's development
++ Activities ofered in the way that they are of interest and appealing to the child
+
+If we let the child do whatever they want before they have any powers of self-control, this _betrays_ the idea of freedom
+
+Again, the key freedoms are:
++ Choice - free to choose activities that are developmentally appropriate for them at that time
+  + Observing a child for a while allows us to understand this inner choice
+  + Sometimes you hear "No, you cannot do that work" - you would NEVER say this, maybe -> "Let's put this away, we need to do some other work first and I'll show you something else" BUT if I feel the child has a reasonable chance to succeed, we would _not_ stop the child (this would undermine the value of the mixed age group)
++ Activity/Work - because through work, they develop
+  + But we don't go behind the child the whole time saying 'Go find something to work on' because if the child could have found their work, they would have! Guide them when appropriate
+  + **Remember that sometimes when the child may look like they're doing nothing, they're processing something** or when they're observing someone, they are learning
+    + If the child NEVER choses work, then maybe they haven't had enough presentations
++ Time
+  + Helps the child to overcome challenges or difficulties; it helps them to persevere
+  + This freedom is not absolute
++ Movement
++ Companions
+  + They _are_ free to work with each other and child is also free to say 'no thank you, I want to work by myself'
+  + One of the purposes of language is to establish and maintain relationship and we've talked about the human tendency for gregariousness, so children have to have the experience to communicate
+    + If you go and tell them to find their own work, you may be disrupting their development
+    + BUT if they are _disrupting_ other people, then for sure you need to 
++ Communication; socialization
++ Observe/be
++ Snack/drink - but there are limits
++ Toilet - they don't need to wait for the bell to ring
+
+There are freedoms, but if the child is doing something that is _not_ helpful to their development, then the adult needs to bring it to an end.
+
+## Limits/Boundaries
++ One of each material (or type of material)
+  + Eliminates clutter and helps the child to make a choice
+  + Eliminates competition because they're not working on the same thing simultaneously and every child can progress at their own place
++ Returning the work to its place - the activity isn't finished until this happens
+  + Support the smooth functioning of the environment
+  + We have to respect that the child does the best that they can do
+    + BUT if you know that this is _not_ the child's best effort (like throwing everything on the tray and dumping it on shelf) you should intervene and how you do this (softly or firmly), depends on the child
+  + If a child forgets to put something away and then is already working on something else, if they are _engrossed_ in their new activity, don't interrupt and put the work away yourself
++ Respecting the work of another and the environment
+
+### Praise
+There are so many dangers of empty praise.
+Of course if a child comes to show you something, you acknowledge it.
+
+We want to help the child think and act for themselves.
+
+### Control of Error
+
+We are teaching the child to think, judge and act for themselves, rather than being reliant on someone else's permission or judgement.
+
+Benefits:
++ Nature of the material is developmental
+  + Development takes time and is _not linear_ (some days we might be able to do something and the next day we cannot)
++ Allows for repetition and problem-solving
++ No fear of about making a mistake
+  + Saw in the film that a child had spilt some lentils and no adults came over shouting at her, she just knew to calmly to and get the dust pan and brush and clear it up
++ Perseverance; not giving up; overcoming challenges
++ No external validation needed; being able to judge for oneself
+
+
+## Obedience
+
+_Education for a New World_, Chapter 12, The Bugbear of Discipline  
+_Absorbent Mind_, Chapter 25, The 3 Levels of Obedience
+
+### 3 Levels of Growth of Obedience:
+1. The child has the functional capacity to do something,but **the child may or may not obey what is asked depite being _able_ to**
+  + e.g. If you ask your child to get dressed they do it. But tomorrow you ask your child to do something and they won't - adult gets aggravated but child may just need your presence (i.e. they need you emotionally but not physically)
+  + They are not _deliberately_ acting against us
+2. We have the capacity to obey, not prevented from a functional point of view _or_ emotional point of view or any point of view
+  + Even though we obey, it's more like 'alright then', we are not particularly thrilled to obey
+  + MM says most adults have only reached this second level of obedience
+3. In children, MM observed a 3rd level of obedience where child **obeys *voluntarily* and *with joy***
+  + This stage is _not_ blind obedience (imposed obedience) - this is very important 
+  + It is the **final stage of a developed well**, obedience that comes from a developed will
+  + Obedience is a quality of the human being without which we could not function as a group
+  + Harks back to the silence game, the children _made_ a silence because they had developed their will sufficiently to choose to do so
+  + When they reach this stage, they do so many things for the adult and the environment, so we need to be _worthy_ of this and not abuse it!
+    + An example of this stage might be adult say 'Oh looks like the dog is hungry' and child says 'Oh I'll feed her' when in the past if asked to feed the dog in the past she may have said 'oh I don't feel like it' - it's willingly and happily given
+
+  True adaptation, it's not enough that we are content and have a sense of belonging. MM said a truly adapted human being wants to be of service and wants to do something for the benefit of their immediate group.
+
+# Social Development
+
+
++ The child's development can only be attained with the presence of other humans
++ At around 2.5/3 years old, the child begins to seek a wider human context and expand their social horizons
++ Relevant human tendencies could be communication, gregariousness, imitation, etc
++ Remember that with the Absorbent Mind the child absorbs how we relate to each other, how we speak to each other etc
++ Sensitive periods: Language and Social Behaviour
++ One of the things that takes this into account in the Children's House is the **mixed age group**
+  + Children get to live a truly social life rather than getting to purely hear these sentiments of 'be nice', 'behave well', we give them the opportunity to live as a member of a community
++ By nature, children are not competitor (as observed by MM)
+  + **Climate in Casa is one much more of collaboration and cooperation rather than of competition** - having one of each item is really a big deal!
+  + Children see different personalities and temperaments and develop an appreciation of one another - they appreciate differences, that we are not all the same
++ MM observed that children rejoice in each other's achievements and didn't feel one took away from their own
++ **Sharing**: Children don't have to share, you can use the material as long as you need to
+  + Welcome to work together as long as it's in a constructive way
++ We foster independence but not at the expense of interdependence
+  + The more you are able to do something for yourself, the more you are able to help your community - if you can pour yourself a drink, you can pour someone else a drink or water a plant
+  + A younger child often do things for themselves because their will is still under construction, but older children tend to do more for the community
+
+"To let the child do as he likes when he has not yet developed powers of control, would be to betray the idea of freedom." Absorbent Mind, p.187, Clio
+
+Self control develops through the child's individual activity. Some self control is needed before the child partakes in group activities.
+
+"The first essential for the child's development is concentration. It lays a whole basis for his character and social behaviour." Absorbent Mind, p. 230, Clio
+
+# Grace & Courtesy
+
++ **Grace:** Moving harmoniously in tune with our surroundings
+  + Elegant, beautiful, deliberate movements
++ **Courtesy:** being mindful and thoughtful of others
+
+
+They help the child to be a member of a community and participate within the community in a harmonious way.
+
+Particular to culture - we all greet, but _how_ we greeet varies from one culture to another.
+
+Of course with the absorbent mind, it takes in everything we model, everything we do and everything we say.
+Sensitive periods for language, coordinated movemement and social behaviour all play a part.
+
+_Grace and courtesy activities do not support concentration._ This comes from the child's _individual_ acitivities.
+
++ Some g&c activities are done every time there are _new_ children
+  + e.g. how to walk around rugs because rugs are workspaces
++ Some done based on what we observe
+  + If we notice there's a lot of running around and a lot of calling across the room, we make a mental note and then at a neutral moment organise a group to show them how it's done
++ We want to preserve the children's dignity - not about nameing and shaming, you make a **mental note and don't correct them infront of everybody** - very important
++ We **always** present g&c activities _in a group_ so that we are not singling out individual children
++ Strive to show the children what to _do_ rather than what _not_ to do
++ Repetition is important, maybe do them slightly differently - add challenge or different props - to keep interest
++ Use positive language, say what you want them to do as opposed to what you want them not to do
+  + 'Hey, let's put your work back on the shelf' instead of 'Hey, you forgot to put your work back' and 
++ If some conduct in the children's house begins to bug you or grate, it's a good sign that a g&c group needs to be organised so they can learn
++ They support children's social adaptation, their coordination of movement, independence and also gives them the skilll of the activity that is being done
++ Very powerful when it comes from the peers
+
+## Activities
++ How to carry sharp object: scissors, pencils, knives, forks
+  + Can do this with different things two days later so it feels new
++ Offering to do things for others (like pouring a glass of water when you're already pouring for yourself)
++ Walk across the room
++ Walk around a mat
++ Walking up and down stairs (with and without something to carry)
++ Sit on a chair
++ Carry a chair
++ Stack a chair or stool
++ Unroll and roll a rug
++ How to carry: tray, bucket, jug, tray with objects
++ How to carry a mat/rug
++ Tuck a chair under the table
++ Put on a coat/shoes/slippers/mittens
++ Open & close door
++ Open and close a drawer
++ How to observe someone else's work, so that they can continue to work in a peaceful way
++ How to ask for help
++ How to offer help
++ Introducing oneself
++ _How to get someone's attention_
+  + There is no 'Montessori way' of doing this (or any of these kinds of things), just think about what would help the child in real life
+  + In some Children's Houses it has become a habit that they go and pat the Guide's shoulder, Elina hates this because she doesn't want to be touched and wants whoever wants her attention to look her in the eye, not stand behind her tapping her shoulder
+  + Other places have some kind of a prop or shell infront of a teacher if they need help - this is completely not real life
+  + Elina used to Demo in a way that she has a child that she was showing something to and then helper comes to stand nearby kind of close and waited without saying anything until Elina lifted her gaze and said 'yeeees?' - you're allowed to think for yourself, do this however you think is useful
++ How to get past a tight space
++ How to say please and thank  you
++ How to offer something
++ _How to observe someone's work_
++ How to accept/decline something
+  + You would do the offering of the thing in a separate, previous g&c
++ _How to ask for something that is out of reach_
++ How to speak in class
++ How to greet someone
++ Coughing/yawning/sneezing...
++ Excuse me...
++ _How to apologize_
++ _How to set a boundary / say 'no'_
+  + "Please don't do that, I don't like it."
++ If you see kids 'correcting' other kids and telling them what they're doing isn't right, you might want to do a g&c on that
+
+![observing-others-work](https://github.com/nelsonic/private/assets/4185328/305afb65-7f51-44b9-8e47-4d2affc860e9)
+
+#### Impromptu discussion on the Snack Table
+Elina is not keen at all on children preparing something and then going around and offering it to all the children immediately because it's very disruptive. They should put it on the snack table and everyone can go get their things when they are done with their work.
+ - With the snack table you can have multiple grace and courtesy lessons - first how to take snacks and then how many to take and then other lessons
+   - Elina gave example of children in the beginning shouting 'we want more snacks, they're finished!', then g&c and it became 'can we have some more snacks please?' still shouted, then next g&c and it become 
+   - This was done at the snack table, guides sitting and eating and then 'oh, snack is finished, what can we do?' and modelling going to ask for more snacks
+ - If you have a new class and a lot of young children maybe you need to prepare the snack but later the children can start preparing it too for the whole group (not for themselves)
+   - Sometimes when everything has been used it is replenished by the children
+ - Sometimes kids go to the snack table just to have a chat with the friends or watch the world go by and if you only have snacks passed around the circle, they lose the freedome to have a snack whenever they want
+
+ # Groups
+ + We need to think about why are calling the group - we should _only_ have them **when needed**
+   + Elina feels many Children's Houses have far too many groups and far too often
+     + No reason to have a morning group all the time - some children when they come in might already know what they want to do and a group disrupts them
+  + Groups often serve adults more than children
+  + Children develop focus and concentration through individual work and not groups, that's why we have work cycles
+  + If you have children wandering around you can collect them and have a little group
+    + Do whatever you think is advantageous for the children, sometimes it might be an action song, a grace & courtesy, a news period etc
++ Think how many children
+  + Often better to repeat same activity with smaller groups
++ Need to be planned; have all the materials you need before you invite the children unless you're going to ask the children to get the materials
+  + Can also organise chairs/cushions beforehand
++ Typically call the children _individually_
+  + With young children you might be direct 'Come with me, I'm going to organise a group'
+  + With some you might say 'Would you like to join a group'
+  + They can bring a placemat or a chair themselves when you invite them (you indicate _where_ they put it) OR you can show them where to sit on the chairs you have already put out
++ Position yourself in a way you can maintain non-verbal communication _with your colleagues_ and **see the classroom**
++ Some children may _want_ to sit next to you but they don't _need_ to sit next to you (or another adult who may be in the group), so just be aware of the ones who _do_ benefit from sitting next to you
++ Try not to get into a pattern so **vary how you start a bit**
++ Do _one thing_ in the group, otherwise it gets into a rut and drags on
++ Guard the group
+  + If children are dribbling in, it can take away from the focus of the class and of the group
+  + If you do small groups frequently then children know they will eventually be called and there will be another opportunity soon
++ 3 minutes to max 15 minutes
++ Sometimes when you invite child to leave, if they are being disruptive for example and they don't want to
+  + "Would you like to go and work on ... or stay here?"
+  + Give them the choice 'are you able to go find your work or do you need help?'
++ Sometimes children test if you will do what you say you will do - **there have to be consequences**
+  + e.g Child was really disrupting group 
+  + Tears don't change the consequences of actions
+  + Don't be afraid to set a limit
+  + May need assitence from a colleague
+  + Never force anyone to do anything they don't want to
+
+### Dismissing the Group
++ Dismiss them individually
++ Dismiss the ones who already know what they are going to do first
++ If they don't know what to do, you can offer them two choices of activities that they know and are ready for
++ For younger children, you can leave them til the very end and actually go to the shelf with them to guide them
+
+<hr/>
+
+#### Side note, a useful song:  
+
+Point to the ceiling, point to the floor, point to the window, point to the door
+Rolly rolly rolly clap clap clap
+Fold up your hands and put them in your lap
+
+
+# Art
++ MM looked at art as one of the channels through which we communicate (a human tendency)
++ Quite different from 'production line art'
++ Human Tendencies: Exploration , repetition, concentration, abstraction, imitation, communication, exactness, etc
+
+## Introducing Art
+
++ When we introduce artists and art, we should
+  + Be mindful of introducing women - Mary Cassatt's 'Sarah & the Cat', Frida Kahlo 
+    + Of course be careful which aspects of Kahlo's life you share with children
+  + Be mindful of introducing people who are alive (art is not only made by dead white men) - like Andy Goldsworthy (makes nature art)
+  + Share artists from different continent, especially the children's own continent and country
+  + Share things of interest, relevant and _positive_
+    + Probably not 'Guernica' at this age
+  + Not all art is made by a brush, beadwork on Masai headpieces and necklaces is a good example, printing on fabric, photography
+
+
+### Group Activity
+Introducing artists
++ Verbal intro
++ Show pictures
++ Books - Great series 'I spy animals in art' and other things in art by Lucy Micklethwait but out of print, you could make your own DIY ones!
++ Visit art galleries
+
+### Individual Activity
++ Classified pictures
+  + Classified by artist (showing progression over time for example)
+  + Classified topic/theme (flowers in art or children in art for example)
+  + + Classified by medium/technique (sculptures, oil painting, watercolour, print, etc)
++ Classified reading
++ Further reading
+
+## Inspiration through the Prepared Environment
++ Art on the walls - real art or prints
+  + A great way to make art cards or get prints for the wall is to buy a previous year's art-themed calender
++ Sculpture
++ Objects - maybe a bowl of fruit at the snack table is a good still life, or flowers
++ Books - not necessarily in the book corner, you could have display them near the art section
+
+### Preparation for Art
++ Indirect preparation through practical life: Co-ordination, independence and concentration
++ Indirect preparation thorugh the sensorial materials: refinement of senses
+
+### Introducing different techniquees
+We typically just show them how to use the tools.
+
+Examples:
++ Painting (poster paints, watercolour, etc)
++ Drawing (start typically with some chubby pastels or chalks or charcoal - you need a fixative like hairspray - and only give children pencil when they have been introduced to how to use a pencil which happens via the metal insets)
++ Printing (hand printing, potato printing, lino printing, printing with objects like cotton reels or legos or plants and leaves you find on the ground)
++ Collage
++ Modelling (with air dry clay for examples, plaster of paris finger or hand)
+
+### Art Principles
++ Indirect preparation
+  + e.g. For watercolours, show how to dip the brush in water, blot off excess water, go onto paint and paint on paper
++ Isolation of difficulty - offer one new component/challenge at a time
++ Activities are complete, offer functional tools and foster independence
+  + Test the tools yourself so that the colours are strong/visible for example and they are child sized
++ Freedom of choice - we don't need to have an art specialist, all of us can show the children how to use the tools
+  + Typically are on the art shelf and have a couple of different techniques on the shelf
+  + Don't overdo it, because some children do only art when they don't know what else to choose  
++ Individuality of expression - not `clone` art where whole class does the same thing
+  + At some seasonal times of year, you can do some things together but provide the ingredients and let them do their own thing
+  + Example, cinammon sticks, dried orange slices and other things for kids to create mobiles - all were mobiles but all were different (see picture below)
++ Rotate activities/techniques
+  + A great idea if you're talking about painters doing self-portraits, you can have a mirror on the table so they can look in the mirror as they are drawing :heart: 
+
+![christmas-mobiles](https://github.com/nelsonic/braga/assets/4185328/f9150d39-0587-4ca5-b41b-3fc10de30f38)
+
+
+We don't normally display children's artwork in children's house but we could easily have a cork board low down **so that children can choose to put their own work up**.
+
+### Painting Easel
++ Complete activity
++ Colour-coding
++ Paints & brushes
++ Apron
++ Paper - a range of colour and _sizes_
++ Do a little group activity to show what to do:
+  + Attaching paper
+  + Cleaning - bucket, sponge, howl, drying cloth
+  + Place to put painting to dry - clothes horse or oil cloth in an area of the classroom so it lays flat
+  + Writing name - attach a pencil to the easel
+
+
+Note that parents are also keen to get art home, but you can just tell them that it's available but at the moment, the interest is elsewhere
+
+
+> "To confer the gift of drawing we must (help the child) to create an eye that sees, a hand that obeys, a soul that feels and in this task the whole life must operate'" - Advanced Montessori Method, Vol. 2 (Clio), p. 309, Clio
+
+<img width="1031" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/4d71a626-cca8-4c6f-a429-d211b7d0446c">
+<img width="1044" alt="image" src="https://github.com/nelsonic/braga/assets/4185328/cc30dd4e-2efd-4625-b6e9-62f29cf310ef">
+
+### Examples of art
++ Remember to always wear an apron when demonstrating and get them to also wear one
++ Test the paper beforehand to see which kinds of paper work best (white paper, thicker paper, sugar paper, coloured paper)
++ **Offer coloured paper too** to add to interest
+
++ **Wax painting**
+  + Draw with the non-wick end of a candle on any paper
+  + Take watercolours and paint stripes across paper (show proper use of watercolours)
++ **Transfer painting**
+  + Use sugar paper if possible
+  + Put 3 colours of paint blobs near each other on piece of paper (3 diff colours)
+  + Use two fingers and flatten each blob rubbing the paint into a little circle on the paper (they should touch or overlap)
+  + Clean off your fingers
+  + Run a single finger through the paint and make a pattern (it will essentially take the paint off the areas you go through)
+  + Clean finger, Put another piece of paper ontop (coloured papers or black work really well), smooth out and you get a transfer print on the top paper
++ **Blow painting**
+  + If you can get paint with a strong pigment, that's wonderful because it gives more of an effect (Elina had Tiger paints and they weren't strong)
+  + Use slightly thicker paper and liquid paint (you can dillute acrylic paint with water in a little bottle for example)
+  + Beforehand make sure the child knows how to blow into the straw because normally we do the opposite!
+    + Blowing into a straw and feel the air against your hand
+  + Shake the bottle, pour a little paint onto the paper
+    + Have a _sponge_ and show how to clean the top of the paint nozzle
+  + Pour some of anothe colour nearby
+  + Take straw and blow paint around
+
+# Music
+
+## 0-3 and Beyond
++ Singing 
++ Dancing
++ Listening to Music
++ Playing percussion
+
+> It shoudl be understood that there must be music throughout the day in addition to the exercises we present.
+- Developing the Musical Senses, p. 11
+
+## Introducing music
++ Instruments of the orchestra
+  + Introducing instruments
+  + Introducing composers
++ Some music ideas for children
++ Small music groups with children
+
+Some Montessori materials:
++ Sound boxes (discriminate loud or soft)
++ Montessori bells (to discriminate high and low pitch)
+
+## Concerts for Children
+
+## Introducing Composers
+Firstly introduce the children to the idea of a composer - a composer is a little like an author; instead of books they write music
++ Show picture of a composer
++ Tell a little story
++ Listening to music by the composer
++ Same principles as for art, make sure to introduce a variety, including women and contemporary composers
+
+### Group Activity
++ Verbal intro
++ Show picture
++ Play some music
+
+### Individual Activity
++ Classified pictures
++ Classified reading
++ Further reading
++ Selection of music always available to listen to in a music corner
+
+Examples:
+![image](https://github.com/nelsonic/baby/assets/4185328/8090c474-7162-4956-ad5f-ebef8862d88e)
+
+
+## Introducing Instruments
+
+### Group Activity
++ Introduce real instruments and music when possible
++ Pictures/books; play music
+
+### Individual Activity
++ Classified Pictures & classified Reading
++ Further Reading
++ Music for the children to listen to independently
+
+## Music groups with Children
+
+### Group activities
++ Singing, action songs, etc.
++ Introduce children's (percussion) instruments:
+  + Handling / When to play / when to stop
++ Child can be the maestro
+  + Sign for stop like putting hands together 
+  + Signs for louder, softer, faster, slower (just do louder and softer at first)
++ Music and Movement
++ Opportunities for individual activity
+
+<hr/>
+
+When you play music you need to give the children space to _move_ as well as the possibility of just listening to music and enjoying it.
+
+Camille Saint-Saens wrote the Carnival of the Animals which has some really fun classical music, such as the Waltzing Elephant and the March of the Lions and The Swan, The Tortoise and The Aquarium.
+ 
+You would never play _background_ music in a classroom because at this age it's important to give the childrent the understanding that you **listen** to music.
+
+# Classified Cards
++ 2.5 to 3, children start working with the pre-reading classified cards (no words on them)
++ By now, age 4.5 or so, we get the child to lay out the cc's
+  + They will probably already know all the names as they've been working with them for a couple of years
+    + If the child has forgotten the name of something when they are at this stage, you would just say the name of the object 
+  + Get them to say the name of each thing as they put it down on the mat
+  + Get them to place the cards down spaced as you'll need space for the labels underneath and the control cards next to it
++ In second basked is control card and name labels (reading set of cc's)
++ Give child a label to read and then they place it under the cc, matching them to the object
++ They take another label, read and match
++ At the end they take the control cards and read and place them next to the ones they have matched on the mat
+  + Now they can read through everything again (they say the same word twice) and make sure everything matches
+
+# Role of the Adult and the Prepared Environment and Observation
+
++ Observation should be systematic and consistent
+  + Should be part of our daily practice
+  + The more _every_ adult in the environment observes, the more comprehensive the picture we have of the child
++ Gather reelvant data
++ Analyse, evaluate and reflect
++ Take action accordingly
+
+Elina used to observe children in the Children's House too.
+
+Considerations:
++ Level of challenge - are they choosing easy/challenging?
++ Repetition - which kind are they repeating and why?
++ When to intervene/interruption
+  + For example, if children are using red rods as swords, you intervene
+  + If children are playing with knobless cylinders and they start playing families with them (one is mummy, daddy, sister, etc), then time to put it away "Why don't we put the pink tower away now and go and look for something else"
+    + Better to put it away and you can guide them to how to use it properly another dayß
+  + Every material has a purpose, so if child is doing something that is impacting others _or_ not good for their own development, we have to intervene
+  + But be careful, if the child is using the material for the purpose but not exactly as demonstrated, _don't intervene_
+    + e.g. putting red rods in sequence but doing it largest to smallest instead of smallest to largest, or doing it vertically instead of on the floor
+  + True exploration is based on understanding - a lot of sins are commited in the name of exploration, "oh the child is just exploring"
+  + We must protect the child's concentration (this is 10 minutes onwards, not just 2 minutes), especially in the beginning it's still in the process of formation
+    + Don't go and interrupt them with praise or vocabulary
+    + MM said even a look or a smile can disrupt concentration
+    + We need to also guard the child from other children
+    + We need to be "guardian angels of minds concentrated in work" - MM
++ When to offer help/step in
+  + Sometimes you help with one small thing and they can keep going
+  + If a child is doing the pink tower for example and he puts all the pieces in the wrong order, you _don't step in_
+    + This just tells you either that they can't yet discriminate 3D dimensions yet or that they're just not interested in the material and both of these situations are ok
+    + Sometimes children can't do it on a mat (like the pink tower) but can put it back in its place correctly
+      + This is because of the absorbent mind, they have memorised it in its place!
+  + When a child has put something back 'wrong' (like the pink tower order) but to the best of their ability, we leave it and only go at a neutral moment to change it
+  + Sometimes children choose work to look busy so the adult doesn't come and ask them to choose a material
++ When to be active, when to be passive
+  + At the beginning of the year or when you have a lot of new children, you may be very active
+  + If you have a truly mixed age group, you eventually get the older children showing the younger ones how to do things
+
+
+### Practical Tips for Observations
++ Keep your observation log in a place where every adult in the classroom can add to it
++ Useful to have a few shorthands for observations, these are Elina's:
+![observation-shorthand](https://github.com/nelsonic/shoshin/assets/4185328/5d35f935-12a6-4dad-b75f-8d2875611a3d)
+  + If you don't see any `P` (presentation) or `RP` (re-presentation) then we have to ask why this child isn't getting any presentations
+  + If you see everything is `DC` (directed choice) it tells you the child isn't choosing independently
+  + `WD` - work but distracted, when the hand is busy but so is the mouth
+  + `S` Socialising which is not a bad thing
+  + Concentration is also important to capture 
+
+# Montessori Principles in a Nutshell
++ Freedoms with Limits
++ Individualised Instruction
++ Uninterrupted Work Cycle
++ Mixed Age Group so a child can live a truly social life and function as a member of a community
++ Control of Error, child can solve their own problems
+
+
+At Home, how can we:
++ Support coordinated movement?
++ Support independence?
++ Help them participate in daily life and community?
++ Offer them freedome with limits?
++ Remove obstacles?
++ Only offer hope as needed?
+
